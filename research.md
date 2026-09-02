@@ -124,7 +124,7 @@ longitudinal environmental data from Norway.
 
 [View paper →](https://doi.org/10.1016/j.aeaoa.2025.100366)
 
-### Physics-Informed Machine Learning
+### Physics-Informed Deep Learning
 
 I developed machine learning methods that incorporate physical and
 scientific knowledge into environmental prediction models, with
@@ -132,7 +132,6 @@ applications to urban air pollution.
 
 [View paper →](https://doi.org/10.1088/2515-7620/add795)
 
-[View paper →](https://arxiv.org/abs/2405.04716)
 
 ### Longitudinal Environmental Data
 
