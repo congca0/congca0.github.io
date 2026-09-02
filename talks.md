@@ -37,13 +37,13 @@ Selected invited talks, seminars, and conference presentations.
 ## 2024
 
 **How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
-*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk; AERE Summer Workshop on Environment, Energy, and Transportation*
+*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk*
 
 **Health Economics and Education Economics: Policy, Skill, and Pollution**  
 *Asia Meeting of the Econometric Society*
 
 **Climate Change and Urban Heat Stress**  
-*International Symposium of Spatiotemporal Data Science*
+*Harvard Center for Geographic Analysis Conference, International Symposium of Spatiotemporal Data Science*
 
 **Environmental Data Science**  
 *Division of Geological and Planetary Sciences, California Institute of Technology*
