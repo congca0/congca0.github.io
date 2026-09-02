@@ -1,10 +1,7 @@
 ---
 permalink: /talks/
-title: "Talks"
 author_profile: true
 ---
-
-# Talks
 
 Selected invited talks, seminars, and conference presentations.
 
