@@ -6,7 +6,7 @@ author_profile: true
 
 # Talks
 
-Selected talks, seminars, and conference presentations.
+Selected invited talks, seminars, and conference presentations.
 
 ## 2026
 
