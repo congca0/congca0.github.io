@@ -4,7 +4,6 @@ title: "Service"
 author_profile: true
 ---
 
-# Service
 
 My professional service includes editorial leadership, conference organization, peer review, and engagement with the broader public health and research community.
 
