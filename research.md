@@ -141,7 +141,7 @@ Norwegian cities.
 
 [View paper →](https://doi.org/10.1038/s41597-024-03583-8)
 
-[View data resource →](https://www.sciencedb.cn/dataSet/912)
+[View data resource →](https://doi.org/10.57760/sciencedb.17721)
 
 ### Environmental and Social Vulnerability
 
