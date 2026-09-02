@@ -30,15 +30,8 @@ for biomedical data and precision treatment decisions.
 ---
 
 ## About
-
-I am a Research Fellow in the Department of Surgery at Stanford University.
-
-My work focuses on causal inference, statistical machine learning,
-representation learning, and multimodal biomedical data.
-
-I received my PhD in Economics from the Norwegian University of Science
-and Technology in 2023 and previously held postdoctoral positions at Yale
-and Caltech.
+I am a Research Fellow in the Department of Surgery at Stanford University. My work focuses on causal AI, treatment effect heterogeneity, representation learning, and precision treatment decisions. 
+I received my PhD in Economics from the Norwegian University of Science and Technology in 2023 and previously held postdoctoral positions at Yale and Caltech.
 
 ---
 
