@@ -1,9 +1,6 @@
- # Site settings
+# Site settings
 title: "Cong Cao"
-author:
-  name: "Cong Cao"
-  avatar: "/images/profile.png"
-description: "Research Fellow at Stanford University"
+description: "Postdoctoral Scholar at Stanford University"
 url: "https://congca0.github.io"
 baseurl: ""
 
@@ -11,8 +8,8 @@ baseurl: ""
 author:
   name: "Cong Cao"
   avatar: "/images/profile.png"
-  bio: "Research Fellow, Department of Surgery, Stanford University"
-  location: "Stanford, California"
+  bio: "Postdoctoral Scholar, Department of Surgery, Stanford University"
+  location: "Palo Alto, California"
   employer: "Stanford University"
 
 # Theme
