@@ -1,6 +1,8 @@
  # Site settings
 title: "Cong Cao"
-name: "Cong Cao"
+author:
+  name: "Cong Cao"
+  avatar: "/images/profile.png"
 description: "Research Fellow at Stanford University"
 url: "https://congca0.github.io"
 baseurl: ""
