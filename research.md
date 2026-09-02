@@ -61,7 +61,7 @@ highlighting the distinction between predictive and causal objectives.
 
 ---
 
-## Representation Learning and Multimodal Biomedical Data
+## Representation Learning and Multimodal Cardiometabolic Multimorbidity
 
 Modern biomedical studies combine information from many sources, including
 clinical measurements, laboratory data, behavioral factors, socioeconomic
