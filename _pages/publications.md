@@ -4,7 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-# Publications
 
 For the most up-to-date list of my publications and citations, please visit
 my Google Scholar profile.
