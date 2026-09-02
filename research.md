@@ -86,13 +86,6 @@ for my later research in biomedical data science and causal inference.
 
 ---
 
-## Research Interests
-
-Causal Inference · Causal AI · Statistical Machine Learning ·
-Representation Learning · Biomedical Data Science · Precision Medicine
-
----
-
 ## Research Leadership and Funding
 
 **Lead Investigator, Approved MWCCS Scientific Concept (X24047), MWCCS (MACS/WIHS Combined Cohort Study)**  
