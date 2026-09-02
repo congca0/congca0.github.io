@@ -32,26 +32,11 @@ and multimodal biomedical data.
 
 ## About
 
-I am a Research Fellow in the Department of Surgery at Stanford University.
+I am a Research Fellow in the Department of Surgery at Stanford University. My research develops causal AI and statistical machine learning methods for biomedical data and precision treatment decisions.
 
-My research develops statistical and machine learning methods for complex
-biomedical and population health problems, with a focus on causal inference,
-representation learning, and multimodal data analysis.
+My work focuses on causal inference, treatment effect heterogeneity, representation learning, and multimodal biomedical data. I received my PhD in Economics, with a specialization in Machine Learning, from the Norwegian University of Science and Technology in 2023 and previously held postdoctoral positions at Yale and Caltech.
 
-I am particularly interested in developing methods that can help translate
-complex biomedical data into more interpretable and actionable evidence
-for clinical decision-making.
-
-Before joining Stanford, I was a Postdoctoral Associate in the Department
-of Biostatistics at Yale School of Public Health and a Research Statistician
-at the VA Connecticut Healthcare System.
-
-I previously worked as a Postdoctoral Teaching Fellow at the California
-Institute of Technology, where I developed and taught interdisciplinary
-courses at the intersection of public health, economics, and data science.
-
-I received my PhD in Economics, with a specialization in Machine Learning,
-from the Norwegian University of Science and Technology in 2023.
+ 
 
 ---
 
