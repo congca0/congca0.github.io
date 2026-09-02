@@ -119,7 +119,7 @@ genetic susceptibility, and biological aging in a national longitudinal HIV coho
 *Norwegian Research Council, 2022*
 
 Awarded competitive funding supporting research activities and a visiting scholarship at the
-University of Pennsylvania. 69,000 NOK ($6,279 USD)
+University of Pennsylvania.
 
 **Full Scholarship Recipient**  
 *Norwegian Public Roads Administration, 2020–2023*
