@@ -15,48 +15,47 @@ Causal AI · Causal Inference · Biomedical Data Science
 </p>
 
 <p class="hero-statement">
-I develop causal AI methods for precision treatment decisions,
-integrating causal inference, statistical machine learning,
-and multimodal biomedical data.
+I develop causal AI and statistical machine learning methods
+for biomedical data and precision treatment decisions.
 </p>
 
 <div class="hero-links">
-<a href="/research/">Research</a>
-<a href="/publications/">Publications</a>
-<a href="/cv/">CV</a>
+<a href="{{ '/research/' | relative_url }}">Research</a>
+<a href="{{ '/publications/' | relative_url }}">Publications</a>
+<a href="{{ '/cv/' | relative_url }}">CV</a>
 <a href="https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en">Google Scholar</a>
-<a href="https://github.com/congcao2">GitHub</a>
+<a href="https://github.com/congca2">GitHub</a>
 </div>
 
 ---
 
 ## About
 
-I am a Research Fellow in the Department of Surgery at Stanford University. My research develops causal AI and statistical machine learning methods for biomedical data and precision treatment decisions.
+I am a Research Fellow in the Department of Surgery at Stanford University.
 
-My work focuses on causal inference, treatment effect heterogeneity, representation learning, and multimodal biomedical data. I received my PhD in Economics, with a specialization in Machine Learning, from the Norwegian University of Science and Technology in 2023 and previously held postdoctoral positions at Yale and Caltech.
+My work focuses on causal inference, statistical machine learning,
+representation learning, and multimodal biomedical data.
 
- 
+I received my PhD in Economics from the Norwegian University of Science
+and Technology in 2023 and previously held postdoctoral positions at Yale
+and Caltech.
 
 ---
 
 ## Research Interests
 
-**Causal Inference**  
-**Statistical Machine Learning**  
-**Causal AI**  
-**Biomedical Data Science**  
-**Representation Learning**  
+**Causal Inference** · **Causal AI** · **Statistical Machine Learning** ·
+**Biomedical Data Science** · **Representation Learning** ·
 **Precision Medicine**
 
 ---
 
 ## Research
 
-My current research focuses on developing causal and machine learning
-methods for precision treatment and biomedical decision-making.
+My current research develops statistical and machine learning methods
+for biomedical data and clinical decision-making.
 
-[Explore my research →](/research/)
+<a href="{{ '/research/' | relative_url }}">Explore my research →</a>
 
 ---
 
@@ -78,7 +77,7 @@ Scientific Data.
 pollution? Norwegian evidence from machine learning approaches.*  
 Journal of Economic Behavior & Organization.
 
-[View publications →](/publications/)
+<a href="{{ '/publications/' | relative_url }}">View publications →</a>
 
 ---
 
@@ -88,5 +87,5 @@ Journal of Economic Behavior & Organization.
 Department of Surgery  
 Stanford University
 
-[Google Scholar](https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en) ·
-[GitHub](https://github.com/congcao2)
+<a href="https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en">Google Scholar</a> ·
+<a href="https://github.com/congcao2">GitHub</a>
