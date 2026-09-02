@@ -6,27 +6,16 @@ author_profile: true
 
 # Research
 
-I work at the intersection of causal inference, AI, machine learning, and
-biomedical data science. My research develops statistical and computational
-methods for understanding complex health data and improving clinical
-decision-making.
-
-My research has evolved from machine learning for environmental and
-population health to causal inference, representation learning, and
-multimodal methods for biomedical research.
+I work on causal inference, AI, and machine learning for biomedical data,
+with a focus on improving how we understand complex health data and make
+clinical decisions.
 
 ---
 
 ## Causal AI and Clinical Decision-Making
 
-My current research focuses on causal inference and machine learning for
-understanding heterogeneity in treatment response and improving
-individualized clinical decision-making.
-
-I develop methods for causal effect estimation, causal machine learning,
-and the integration of rich clinical and biological information into
-causal analyses. I am also interested in emerging applications of AI in
-clinical and surgical systems.
+I develop causal inference and AI methods for clinical and surgical
+applications.
 
 ### Selected Work
 
@@ -42,15 +31,13 @@ clinical and surgical systems.
 
 ## Representation Learning and Multimodal Biomedical Data
 
-Modern biomedical studies combine information from many sources, including
-clinical measurements, laboratory data, behavioral factors, socioeconomic
-characteristics, and genomics.
+Biomedical research increasingly brings together data from many sources,
+including clinical, laboratory, behavioral, socioeconomic, and genomic data.
 
-I develop representation learning methods for integrating heterogeneous
-data sources while preserving latent structure that is useful for
-statistical and biomedical analysis. A particular focus is on using
-learned representations to uncover latent mechanisms and complex
-relationships in high-dimensional health data.
+I develop representation learning methods for integrating these data while
+capturing latent structure that can be useful for biomedical research.
+I am particularly interested in using learned representations to study
+complex relationships and potential mechanisms in high-dimensional health data.
 
 ### Selected Work
 
@@ -62,13 +49,11 @@ relationships in high-dimensional health data.
 
 ## Environmental and Population Health
 
-Earlier in my research, I developed machine learning and statistical methods
-for studying environmental exposures, population health, and social
-vulnerability using large-scale longitudinal data.
+Earlier in my research, I used machine learning and statistical methods to
+study environmental exposures, population health, and social vulnerability.
 
-I worked with datasets combining air pollution, weather, traffic, climate,
-health, and sociodemographic information. This work provided a foundation
-for my later research in biomedical data science and causal inference.
+This work combined large-scale data on air pollution, weather, traffic,
+climate, health, and sociodemographic factors.
 
 ### Selected Work
 
@@ -88,20 +73,18 @@ for my later research in biomedical data science and causal inference.
 
 ## Research Leadership and Funding
 
-**Lead Investigator, Approved MWCCS Scientific Concept (X24047), MWCCS (MACS/WIHS Combined Cohort Study)**  
-*2024–2032*
+**Lead Investigator, Approved MWCCS Scientific Concept (X24047)**  
+*MACS/WIHS Combined Cohort Study (MWCCS)* · 2024–2032
 
 I lead a project using causal machine learning to study environmental
-exposures, genetic susceptibility, and biological aging in a national
-longitudinal HIV cohort.
+exposures, genetic susceptibility, and biological aging.
 
-**Competitive Research Funding Recipient, COMPAMA**  
-*Norwegian Research Council, 2022*
+**Competitive Research Funding Recipient**  
+*COMPAMA, Norwegian Research Council* · 2022
 
-Awarded competitive funding supporting research activities and a visiting
-scholarship at the University of Pennsylvania.
+Supported research activities and a visiting scholarship at the University of Pennsylvania.
 
 **Full Scholarship Recipient**  
-*Norwegian Public Roads Administration, 2020–2023*
+*Norwegian Public Roads Administration* · 2020–2023
 
 Full doctoral scholarship supporting my PhD research.
