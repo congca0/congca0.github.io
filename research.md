@@ -4,8 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-# Research
-
 I work on causal inference, AI, and machine learning for biomedical data,
 with a focus on improving how we understand complex health data and make
 clinical decisions.
