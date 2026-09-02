@@ -17,7 +17,7 @@ clinical decisions.
 I develop causal inference and AI methods for clinical and surgical
 applications.
 
-![Causal AI and Clinical Decision-Making](/assets/images/research/causal_ai_simple.gif)
+![Causal AI and Clinical Decision-Making](/images/research/causal_ai_simple.gif)
 
 ### Selected Work
 
@@ -41,7 +41,7 @@ capturing latent structure that can be useful for biomedical research.
 I am particularly interested in using learned representations to study
 complex relationships and potential mechanisms in high-dimensional health data.
 
-![Representation Learning and Multimodal Biomedical Data](/assets/images/research/representation_learning_simple_v3.gif)
+![Representation Learning and Multimodal Biomedical Data](/images/research/representation_learning_simple_v3.gif)
 
 ### Selected Work
 
@@ -59,7 +59,7 @@ study environmental exposures, population health, and social vulnerability.
 This work combined large-scale data on air pollution, weather, traffic,
 climate, health, and sociodemographic factors.
 
-![Environmental and Population Health](/assets/images/research/environmental_health_simple.gif)
+![Environmental and Population Health](/images/research/environmental_health_simple.gif)
 
 ### Selected Work
 
