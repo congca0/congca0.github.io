@@ -1,8 +1,9 @@
- ---
+---
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
 ---
+
 
 I have taught courses in public health economics and statistical modeling, 
 with additional experience mentoring students in causal inference, machine 
