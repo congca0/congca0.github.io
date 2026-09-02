@@ -32,7 +32,7 @@ Teaching evaluations were consistently above departmental averages across multip
 *Applied Linear Regression Analysis*  
 The Arctic University of Norway, 2020
 
-Supported instruction in statistical modeling and R for medical students.
+Supported instruction in statistical modeling and R for medical students (50 students).
 
 ---
 
