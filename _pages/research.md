@@ -118,8 +118,8 @@ genetic susceptibility, and biological aging in a national longitudinal HIV coho
 **Competitive Research Funding Recipient, COMPAMA**  
 *Norwegian Research Council, 2022*
 
-Competitive funding supporting research activities and a visiting scholarship at
-the University of Pennsylvania.
+Awarded competitive funding supporting research activities and a visiting scholarship at the
+University of Pennsylvania. 69,000 NOK ($6,279 USD)
 
 **Full Scholarship Recipient**  
 *Norwegian Public Roads Administration, 2020–2023*
