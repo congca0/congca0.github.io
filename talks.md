@@ -20,9 +20,6 @@ Selected invited talks, seminars, and conference presentations.
 
 ## 2025
 
-**Modeling Impacts of Traffic, Air Pollution, and Weather Conditions on Cardiopulmonary Disease Mortality**  
-*Department of Biostatistics and Health Data Science, Lehigh University College of Health*
-
 **Physics-Based Deep Learning for Predicting Urban Air Pollution Using Decadal Time Series Data**  
 *Harvard Center for Geographic Analysis Conference, The Geography of Digital Twins; Symposium on Spatiotemporal Data Science*
 
@@ -33,17 +30,14 @@ Selected invited talks, seminars, and conference presentations.
 
 ## 2024
 
-**How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
-*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk*
-
-**Health Economics and Education Economics: Policy, Skill, and Pollution**  
+**Modeling Impacts of Traffic, Air Pollution, and Weather Conditions on Cardiopulmonary Disease Mortality**  
 *Asia Meeting of the Econometric Society*
+
+**How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
+*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk; Division of Geological and Planetary Sciences, California Institute of Technology*
 
 **Climate Change and Urban Heat Stress**  
 *Harvard Center for Geographic Analysis Conference, International Symposium of Spatiotemporal Data Science*
-
-**Environmental Data Science**  
-*Division of Geological and Planetary Sciences, California Institute of Technology*
 
 ---
 
