@@ -1,4 +1,5 @@
- ---
+  
+---
 permalink: /
 title: "Cong Cao"
 author_profile: true
@@ -24,14 +25,19 @@ for biomedical data and precision treatment decisions.
 <a href="{{ '/publications/' | relative_url }}">Publications</a>
 <a href="{{ '/cv/' | relative_url }}">CV</a>
 <a href="https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en">Google Scholar</a>
-<a href="https://github.com/congca2">GitHub</a>
+<a href="https://github.com/congca0">GitHub</a>
 </div>
 
 ---
 
 ## About
-I am a Research Fellow in the Department of Surgery at Stanford University. My work focuses on causal AI, treatment effect heterogeneity, representation learning, and precision treatment decisions. 
-I received my PhD in Economics from the Norwegian University of Science and Technology in 2023 and previously held postdoctoral positions at Yale and Caltech.
+
+I am a Research Fellow in the Department of Surgery at Stanford University.
+
+My work focuses on causal inference, statistical machine learning,
+representation learning, and multimodal biomedical data.
+
+ I received my PhD in Economics from the Norwegian University of Science and Technology in 2023 and previously held postdoctoral positions at Yale and Caltech.
 
 ---
 
@@ -81,4 +87,5 @@ Department of Surgery
 Stanford University
 
 <a href="https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en">Google Scholar</a> ·
-<a href="https://github.com/congcao2">GitHub</a>
+<a href="https://github.com/congca0">GitHub</a>
+ 
