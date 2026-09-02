@@ -59,20 +59,27 @@ Reviewed four conference submissions.
 
 ## Journal Review
 
-Reviewed manuscripts for journals including:
+### Public Health & Health Sciences
 
 - *BMC Public Health*
-- *Energy Research & Social Science*
 - *Environmental Health*
 - *Humanities and Social Sciences Communications*
-- *Journal of Environmental Economics and Policy*
-- *Machine Learning: Earth*
 - *Scientific Reports*
+
+### Environmental Science & Climate
+
+- *Machine Learning: Earth*
 - *Stochastic Environmental Research and Risk Assessment*
 - *Theoretical and Applied Climatology*
 - *Water, Air & Soil Pollution*
 
+### Economics & Social Science
+
+- *Energy Research & Social Science*
+- *Journal of Environmental Economics and Policy*
+
 [View detailed review record on ORCID →](https://orcid.org/0000-0001-8289-1705)
+
 
 ---
 
