@@ -34,9 +34,7 @@ I received my PhD in Economics from the Norwegian University of Science and Tech
 
 ## Research Interests
 
-**Causal Inference** · **Causal AI** · **Statistical Machine Learning** ·
-**Biomedical Data Science** · **Representation Learning** ·
-**Precision Medicine**
+**Causal AI** · **Statistical Machine Learning** · **Precision Medicine**
 
 ---
 
@@ -46,6 +44,6 @@ I received my PhD in Economics from the Norwegian University of Science and Tech
 [ORCID](https://orcid.org/0000-0001-8289-1705) ·
 [LinkedIn](https://www.linkedin.com/in/cong-cao-70068839/) ·
 [GitHub](https://github.com/congca0)·
-[Previous GitHub](https://github.com/congca))
+[Previous GitHub](https://github.com/congca)
 
  
