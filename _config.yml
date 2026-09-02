@@ -13,7 +13,7 @@ author:
   employer: "Stanford University"
 
 # Theme
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 # Build settings
 markdown: kramdown
