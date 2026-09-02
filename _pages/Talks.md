@@ -60,4 +60,4 @@ Selected talks, seminars, and conference presentations.
 ## 2022
 
 **How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
-*Nordic Annual Environmental and Resource Economics Conference; Annual Meeting of the Norwegian Association of Economists; Urban Transitions Conference; Annual Meeting of the Southern Economic Association; Economics Department Seminar, Norwegian University of Science and Technology*
+*Nordic Annual Environmental and Resource Economics Conference; Annual Meeting of the Norwegian Association of Economists; Urban Transitions Conference; Annual Meeting of the Southern Economic Association; Economics Department Seminar, Norwegian University of Science and Technology;Norwegian Public Road Administration; Method Development and Analytics Department, Norwegian Institute of Public Health *
