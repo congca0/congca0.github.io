@@ -7,7 +7,7 @@ author_profile: true
 # Research
 
 I work at the intersection of causal inference, AI, machine learning, and
-biomedical data science. My research develops statistical and computational
+biomedical data science. My research develops computational
 methods for understanding complex health data and improving clinical
 decision-making.
 
