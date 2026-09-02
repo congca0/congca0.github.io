@@ -45,7 +45,7 @@ Selected talks, seminars, and conference presentations.
 **Climate Change and Urban Heat Stress**  
 *International Symposium of Spatiotemporal Data Science*
 
-**Environmental and Biomedical Data Science**  
+**Environmental Data Science**  
 *Division of Geological and Planetary Sciences, California Institute of Technology*
 
 ---
