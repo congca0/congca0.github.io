@@ -109,7 +109,7 @@ Biomedical Data Science · Representation Learning · Precision Medicine
 
 ## Research Leadership and Funding
 
-**Lead Investigator, MWCCS Scientific Concept X24047**  
+**Lead Investigator, Approved MWCCS Scientific Concept (X24047), MWCCS (MACS/WIHS Combined Cohort Study)**  
 *2024–2032*
 
 I lead a project using causal machine learning to study environmental exposures,
