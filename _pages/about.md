@@ -8,8 +8,6 @@ redirect_from:
 
 # Cong Cao
 
-### Postdoctoral Scholar · Department of Surgery · Stanford University
-
 <p class="hero-subtitle">
 Causal AI · Causal Inference · Biomedical Data Science
 </p>
