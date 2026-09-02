@@ -15,7 +15,9 @@ clinical decisions.
 I develop causal inference and AI methods for clinical and surgical
 applications.
 
-![Causal AI and Clinical Decision-Making](/images/research/causal_ai_simple.gif)
+<img src="/images/research/causal_ai_mediation_animated.gif"
+     alt="Causal AI and Causal Mediation for Individualized Treatment Decisions"
+     style="width: 100%; max-width: 1000px; display: block; margin: 1.5rem auto 2rem;">
 
 ### Selected Work
 
