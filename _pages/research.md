@@ -112,12 +112,16 @@ Biomedical Data Science · Representation Learning · Precision Medicine
 **Lead Investigator, MWCCS Scientific Concept X24047**  
 *2024–2032*
 
-I lead a project using causal machine learning to study environmental
-exposures, genetic susceptibility, and biological aging in a national
-longitudinal HIV cohort.
+I lead a project using causal machine learning to study environmental exposures,
+genetic susceptibility, and biological aging in a national longitudinal HIV cohort.
 
 **Competitive Research Funding Recipient, COMPAMA**  
 *Norwegian Research Council, 2022*
 
-Competitive funding supporting research activities and a visiting
-scholarship at the University of Pennsylvania.
+Competitive funding supporting research activities and a visiting scholarship at
+the University of Pennsylvania.
+
+**Full Scholarship Recipient**  
+*Norwegian Public Roads Administration, 2020–2023*
+
+Full doctoral scholarship supporting my PhD research.
