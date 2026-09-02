@@ -104,3 +104,20 @@ Norwegian cities.
 
 Causal Inference · Causal AI · Statistical Machine Learning ·
 Biomedical Data Science · Representation Learning · Precision Medicine
+
+---
+
+## Research Leadership and Funding
+
+**Lead Investigator, MWCCS Scientific Concept X24047**  
+*2024–2032*
+
+NIH-funded longitudinal cohort study. I developed and lead a project
+using causal machine learning to study environmental exposures, epigenetics,
+and biological aging among people living with HIV.
+
+**Norwegian Research Council Funding Recipient, COMPAMA**  
+*2022*
+
+Competitive funding supporting research and a visiting scholarship at the
+University of Pennsylvania.
