@@ -59,6 +59,18 @@ highlighting the distinction between predictive and causal objectives.
 
 [View paper →](https://arxiv.org/abs/2609.00071)
 
+### AI-Enhanced Surgical Systems
+
+I have also examined the role of artificial intelligence in
+robot-assisted surgery, with a focus on visual and haptic feedback,
+augmented reality, and teleoperation.
+
+This work reviews emerging technologies for integrating multimodal feedback
+and AI into surgical robotic systems and highlights challenges in
+translating these technologies into reliable clinical applications.
+
+[View paper →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)
+
 ---
 
 ## Representation Learning and Multimodal Cardiometabolic Multimorbidity
