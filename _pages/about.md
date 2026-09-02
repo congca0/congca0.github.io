@@ -45,7 +45,7 @@ I received my PhD in Economics from the Norwegian University of Science and Tech
 [Google Scholar](https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en) ·
 [ORCID](https://orcid.org/0000-0001-8289-1705) ·
 [LinkedIn](https://www.linkedin.com/in/cong-cao-70068839/) ·
-[GitHub](https://github.com/congca0)
-[Previous GitHub]([https://github.com/congca0](https://github.com/congca))
+[GitHub](https://github.com/congca0)·
+[Previous GitHub](https://github.com/congca))
 
  
