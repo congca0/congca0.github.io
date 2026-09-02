@@ -1,4 +1,4 @@
- ---
+---
 permalink: /research/
 title: "Research"
 author_profile: true
@@ -7,7 +7,7 @@ author_profile: true
 # Research
 
 I work at the intersection of causal inference, AI, machine learning, and
-biomedical data science. My research develops computational
+biomedical data science. My research develops statistical and computational
 methods for understanding complex health data and improving clinical
 decision-making.
 
@@ -17,63 +17,30 @@ multimodal methods for biomedical research.
 
 ---
 
-## Causal Inference and Clinical Decision-Making
+## Causal AI and Clinical Decision-Making
 
 My current research focuses on causal inference and machine learning for
 understanding heterogeneity in treatment response and improving
 individualized clinical decision-making.
 
-I am particularly interested in developing methods for estimating
-individualized treatment effects and for incorporating rich clinical and
-biological information into causal analyses.
+I develop methods for causal effect estimation, causal machine learning,
+and the integration of rich clinical and biological information into
+causal analyses. I am also interested in emerging applications of AI in
+clinical and surgical systems.
 
-### Individualized Treatment Effects
+### Selected Work
 
-I study how treatment effects vary across individuals and develop causal
-machine learning methods for estimating these differences using clinical
-and real-world data.
+- [Causal Inference under Interference with Learned Exposure Mappings](https://arxiv.org/abs/2608.19224)
 
-This work draws on large-scale healthcare datasets, including data from the
-VA Cooperative Studies Program and the All of Us Research Program.
+- [When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation](https://arxiv.org/abs/2609.00071)
 
-### Causal Inference with Interference
+- [AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program](https://www.medrxiv.org/content/10.64898/2026.06.18.26355982v2)
 
-I study causal inference in settings where individuals may be affected by
-treatments received by others. One focus is uncertainty about how
-individual-level treatments combine to form the relevant exposure for a
-given outcome.
-
-This work develops methods for causal estimation when these exposure
-relationships are not known in advance.
-
-[View paper →](https://arxiv.org/abs/2608.19224)
-
-### Causal Machine Learning Methodology
-
-I develop methodological tools for understanding how predictive modeling
-performance relates to the quality of causal estimation.
-
-In recent work, I examine why accurate prediction of nuisance functions
-does not necessarily translate into accurate causal effect estimation,
-highlighting the distinction between predictive and causal objectives.
-
-[View paper →](https://arxiv.org/abs/2609.00071)
-
-### AI-Enhanced Surgical Systems
-
-I have also examined the role of artificial intelligence in
-robot-assisted surgery, with a focus on visual and haptic feedback,
-augmented reality, and teleoperation.
-
-This work reviews emerging technologies for integrating multimodal feedback
-and AI into surgical robotic systems and highlights challenges in
-translating these technologies into reliable clinical applications.
-
-[View paper →](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)
+- [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)
 
 ---
 
-## Representation Learning and Multimodal Cardiometabolic Multimorbidity
+## Representation Learning and Multimodal Biomedical Data
 
 Modern biomedical studies combine information from many sources, including
 clinical measurements, laboratory data, behavioral factors, socioeconomic
@@ -81,30 +48,15 @@ characteristics, and genomics.
 
 I develop representation learning methods for integrating heterogeneous
 data sources while preserving latent structure that is useful for
-statistical and biomedical analysis.
+statistical and biomedical analysis. A particular focus is on using
+learned representations to uncover latent mechanisms and complex
+relationships in high-dimensional health data.
 
-### Latent Structure in Multimodal Biomedical Data
+### Selected Work
 
-In recent work with Shuangge Ma, I developed a multimodal representation
-learning framework for studying latent structures across socioeconomic,
-psychosocial, clinical, laboratory, behavioral, and genomic data.
+- [AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity](https://www.medrxiv.org/content/10.64898/2026.06.17.26355907v2.full)
 
-The framework combines representation learning with causal mediation
-analysis to study relationships associated with cardiometabolic
-multimorbidity.
-
-[View paper →](https://arxiv.org/abs/2608.04016)
-
-### Representation Learning for Psychometric Data
-
-I also study how different representation learning objectives recover
-different latent structures from the same high-dimensional data.
-
-This work examines the implications of representation learning choices for
-latent structure discovery and statistical interpretation in psychometric
-data.
-
-[View paper →](https://arxiv.org/abs/2609.00100)
+- [Different representation learning objectives recover distinct latent structures from the same psychometric data](https://arxiv.org/abs/2609.00100)
 
 ---
 
@@ -118,50 +70,19 @@ I worked with datasets combining air pollution, weather, traffic, climate,
 health, and sociodemographic information. This work provided a foundation
 for my later research in biomedical data science and causal inference.
 
-### Environmental Exposure and Cardiopulmonary Health
+### Selected Work
 
-I studied nonlinear and time-varying relationships among traffic, air
-pollution, weather, and cardiopulmonary health outcomes using longitudinal
-environmental data from Norway.
+- [Modeling impacts of traffic, air pollution, and weather conditions on cardiopulmonary disease mortality](https://doi.org/10.1177/14034948241290852)
 
-[View paper →](https://doi.org/10.1177/14034948241290852)
+- [How to better predict the effect of urban traffic and weather on air pollution? Norwegian evidence from machine learning approaches](https://doi.org/10.1016/j.jebo.2024.03.018)
 
-[View paper →](https://doi.org/10.1016/j.jebo.2024.03.018)
+- [Interaction between Climate Factors and Air Quality in Three Norwegian Cities: A machine learning analysis](https://doi.org/10.1016/j.aeaoa.2025.100366)
 
-### Climate and Air Quality
+- [Physics-based machine learning for predicting urban air pollution using decadal time series data](https://doi.org/10.1088/2515-7620/add795)
 
-I developed machine learning and statistical methods to study the
-interplay between climate factors, traffic, and air quality using
-longitudinal environmental data from Norway.
+- [Integration of ten years of daily weather, traffic, and air pollution data from Norway's six largest cities](https://doi.org/10.1038/s41597-024-03583-8)
 
-[View paper →](https://doi.org/10.1016/j.aeaoa.2025.100366)
-
-### Physics-Informed Deep Learning
-
-I developed machine learning methods that incorporate physical and
-scientific knowledge into environmental prediction models, with
-applications to urban air pollution.
-
-[View paper →](https://doi.org/10.1088/2515-7620/add795)
-
-
-### Longitudinal Environmental Data
-
-I independently developed a longitudinal data resource combining ten years
-of daily weather, traffic, and air pollution data across six major
-Norwegian cities.
-
-[View paper →](https://doi.org/10.1038/s41597-024-03583-8)
-
-[View data resource →](https://doi.org/10.57760/sciencedb.17721)
-
-### Environmental and Social Vulnerability
-
-I have also studied how environmental and sociodemographic factors interact
-with energy performance and vulnerability using large-scale housing and
-census data.
-
-[View paper →](https://doi.org/10.1016/j.enpol.2025.115057)
+- [Inequitable efficiency: Unravelling the social and built environment drivers of London's housing energy performance](https://doi.org/10.1016/j.enpol.2025.115057)
 
 ---
 
