@@ -6,24 +6,26 @@ author_profile: true
 
 # Research
 
-I work at the intersection of causal inference, machine learning, and
+I work at the intersection of causal inference, AI, machine learning, and
 biomedical data science. My research develops statistical and computational
 methods for understanding complex health data and improving clinical
 decision-making.
 
-My work has evolved from machine learning for environmental and population
-health to causal and multimodal methods for biomedical research.
+My research has evolved from machine learning for environmental and
+population health to causal inference, representation learning, and
+multimodal methods for biomedical research.
 
 ---
 
 ## Causal Inference and Clinical Decision-Making
 
-My current work focuses on causal inference and machine learning for
-understanding differences in treatment response across patients.
+My current research focuses on causal inference and machine learning for
+understanding heterogeneity in treatment response and improving
+individualized clinical decision-making.
 
-I am particularly interested in individualized treatment-effect estimation
-and in developing methods that can make better use of the rich clinical and
-biological information available in modern healthcare data.
+I am particularly interested in developing methods for estimating
+individualized treatment effects and for incorporating rich clinical and
+biological information into causal analyses.
 
 ### Individualized Treatment Effects
 
@@ -36,25 +38,38 @@ VA Cooperative Studies Program and the All of Us Research Program.
 
 ### Causal Inference with Interference
 
-I also study causal inference in settings where individuals may be affected
-by treatments received by others. One focus is uncertainty about how
+I study causal inference in settings where individuals may be affected by
+treatments received by others. One focus is uncertainty about how
 individual-level treatments combine to form the relevant exposure for a
 given outcome.
 
 This work develops methods for causal estimation when these exposure
 relationships are not known in advance.
 
+[View paper →](https://arxiv.org/abs/2608.19224)
+
+### Causal Machine Learning Methodology
+
+I develop methodological tools for understanding how predictive modeling
+performance relates to the quality of causal estimation.
+
+In recent work, I examine why accurate prediction of nuisance functions
+does not necessarily translate into accurate causal effect estimation,
+highlighting the distinction between predictive and causal objectives.
+
+[View paper →](https://arxiv.org/abs/2609.00071)
+
 ---
 
-## Multimodal Biomedical Data
+## Representation Learning and Multimodal Biomedical Data
 
 Modern biomedical studies combine information from many sources, including
 clinical measurements, laboratory data, behavioral factors, socioeconomic
 characteristics, and genomics.
 
-I develop representation learning methods for bringing these different
-sources of information together while preserving structure that is useful
-for statistical and biomedical analysis.
+I develop representation learning methods for integrating heterogeneous
+data sources while preserving latent structure that is useful for
+statistical and biomedical analysis.
 
 ### Latent Structure in Multimodal Biomedical Data
 
@@ -68,29 +83,56 @@ multimorbidity.
 
 [View paper →](https://arxiv.org/abs/2608.04016)
 
+### Representation Learning for Psychometric Data
+
+I also study how different representation learning objectives recover
+different latent structures from the same high-dimensional data.
+
+This work examines the implications of representation learning choices for
+latent structure discovery and statistical interpretation in psychometric
+data.
+
+[View paper →](https://arxiv.org/abs/2609.00100)
+
 ---
 
 ## Environmental and Population Health
 
-Earlier in my research, I used machine learning and statistical methods to
-study environmental exposures and population health.
+Earlier in my research, I developed machine learning and statistical methods
+for studying environmental exposures, population health, and social
+vulnerability using large-scale longitudinal data.
 
-I worked with large longitudinal datasets combining air pollution, weather,
-traffic, climate, and health information. These projects provided the
-foundation for my later work in biomedical data science and causal
-inference.
+I worked with datasets combining air pollution, weather, traffic, climate,
+health, and sociodemographic information. This work provided a foundation
+for my later research in biomedical data science and causal inference.
 
-### Environmental Exposure and Health
+### Environmental Exposure and Cardiopulmonary Health
 
-I developed machine learning methods to study nonlinear and time-varying
-relationships among traffic, air pollution, weather, and cardiopulmonary
-health outcomes using data from Norway.
+I studied nonlinear and time-varying relationships among traffic, air
+pollution, weather, and cardiopulmonary health outcomes using longitudinal
+environmental data from Norway.
+
+[View paper →](https://doi.org/10.1177/14034948241290852)
+
+[View paper →](https://doi.org/10.1016/j.jebo.2024.03.018)
+
+### Climate and Air Quality
+
+I developed machine learning and statistical methods to study the
+interplay between climate factors, traffic, and air quality using
+longitudinal environmental data from Norway.
+
+[View paper →](https://doi.org/10.1016/j.aeaoa.2025.100366)
 
 ### Physics-Informed Machine Learning
 
 I developed machine learning methods that incorporate physical and
-scientific knowledge into environmental prediction models, with applications
-to urban air pollution.
+scientific knowledge into environmental prediction models, with
+applications to urban air pollution.
+
+[View paper →](https://doi.org/10.1088/2515-7620/add795)
+
+[View paper →](https://arxiv.org/abs/2405.04716)
 
 ### Longitudinal Environmental Data
 
@@ -98,12 +140,24 @@ I independently developed a longitudinal data resource combining ten years
 of daily weather, traffic, and air pollution data across six major
 Norwegian cities.
 
+[View paper →](https://doi.org/10.1038/s41597-024-03583-8)
+
+[View data resource →](https://www.sciencedb.cn/dataSet/912)
+
+### Environmental and Social Vulnerability
+
+I have also studied how environmental and sociodemographic factors interact
+with energy performance and vulnerability using large-scale housing and
+census data.
+
+[View paper →](https://doi.org/10.1016/j.enpol.2025.115057)
+
 ---
 
 ## Research Interests
 
 Causal Inference · Causal AI · Statistical Machine Learning ·
-Biomedical Data Science · Representation Learning · Precision Medicine
+Representation Learning · Biomedical Data Science · Precision Medicine
 
 ---
 
@@ -112,14 +166,15 @@ Biomedical Data Science · Representation Learning · Precision Medicine
 **Lead Investigator, Approved MWCCS Scientific Concept (X24047), MWCCS (MACS/WIHS Combined Cohort Study)**  
 *2024–2032*
 
-I lead a project using causal machine learning to study environmental exposures,
-genetic susceptibility, and biological aging in a national longitudinal HIV cohort.
+I lead a project using causal machine learning to study environmental
+exposures, genetic susceptibility, and biological aging in a national
+longitudinal HIV cohort.
 
 **Competitive Research Funding Recipient, COMPAMA**  
 *Norwegian Research Council, 2022*
 
-Awarded competitive funding supporting research activities and a visiting scholarship at the
-University of Pennsylvania.
+Awarded competitive funding supporting research activities and a visiting
+scholarship at the University of Pennsylvania.
 
 **Full Scholarship Recipient**  
 *Norwegian Public Roads Administration, 2020–2023*
