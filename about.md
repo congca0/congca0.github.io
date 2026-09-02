@@ -3,8 +3,6 @@ permalink: /
 author_profile: true
 ---
 
-# Cong Cao
-
 **Causal AI** · **Precision Medicine**
 
 I develop causal AI and statistical machine learning methods for biomedical data and precision treatment decisions.
