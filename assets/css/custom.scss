@@ -1,67 +1,71 @@
----
+ ---
 ---
 
 /* =========================================================
    Clean academic website
    ========================================================= */
 
-/* Overall page */
+html,
 body {
-  background: #ffffff;
-  color: #333333;
-}
-
-/* ---------------------------------------------------------
-   Header / navigation
-   --------------------------------------------------------- */
-
-.masthead {
   background: #ffffff !important;
-  border-bottom: 1px solid #eeeeee;
-  box-shadow: none;
-}
-
-.masthead__inner-wrap {
-  background: #ffffff !important;
-}
-
-.masthead__menu-item a {
   color: #333333 !important;
 }
 
-.masthead__menu-item a:hover {
+/* =========================
+   Header
+   ========================= */
+
+.masthead,
+.masthead__inner-wrap {
+  background: #ffffff !important;
+  background-color: #ffffff !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #eeeeee !important;
+}
+
+.masthead__menu-item a,
+.greedy-nav a {
+  color: #333333 !important;
+}
+
+.masthead__menu-item a:hover,
+.greedy-nav a:hover {
   color: #006cb8 !important;
 }
 
-/* Site name */
 .masthead__menu-item--lg a {
   color: #222222 !important;
 }
 
-/* ---------------------------------------------------------
+/* =========================
    Main content
-   --------------------------------------------------------- */
+   ========================= */
 
-.page {
-  background: #ffffff;
-}
-
-.page__content {
-  color: #333333;
-}
-
-/* ---------------------------------------------------------
-   Footer
-   --------------------------------------------------------- */
-
-.page__footer {
+.page,
+.page__content,
+.initial-content {
   background: #ffffff !important;
-  color: #777777 !important;
-  border-top: 1px solid #eeeeee;
+  color: #333333 !important;
 }
 
+/* =========================
+   Sidebar
+   ========================= */
+
+.sidebar {
+  background: #ffffff !important;
+}
+
+/* =========================
+   Footer
+   ========================= */
+
+.page__footer,
 .page__footer footer {
   background: #ffffff !important;
+  background-color: #ffffff !important;
+  color: #777777 !important;
+  border-top: 1px solid #eeeeee !important;
 }
 
 .page__footer a {
@@ -72,9 +76,9 @@ body {
   color: #00548f !important;
 }
 
-/* ---------------------------------------------------------
+/* =========================
    Links
-   --------------------------------------------------------- */
+   ========================= */
 
 a {
   color: #006cb8;
@@ -84,13 +88,9 @@ a:hover {
   color: #00548f;
 }
 
-/* ---------------------------------------------------------
-   Sidebar
-   --------------------------------------------------------- */
-
-.sidebar {
-  background: #ffffff;
-}
+/* =========================
+   Profile image
+   ========================= */
 
 .author__avatar img {
   border-radius: 50%;
