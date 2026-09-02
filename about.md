@@ -12,8 +12,6 @@ I develop causal AI and statistical machine learning methods for biomedical data
 
 ---
 
-## About
-
 I am a Postdoctoral Scholar in the Department of Surgery at Stanford University. I also serve as a Research Statistician with the U.S. Department of Veterans Affairs.
 
 My research lies at the intersection of causal inference, statistical machine learning, and biomedical data science, with a focus on developing methods for understanding complex biomedical data and improving clinical decision-making.
