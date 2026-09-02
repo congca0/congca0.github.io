@@ -1,4 +1,4 @@
- ---
+---
 permalink: /talks/
 title: "Talks"
 author_profile: true
@@ -6,7 +6,7 @@ author_profile: true
 
 # Talks
 
-Selected talks, seminars, and conference presentations.
+Selected invited talks, seminars, and conference presentations.
 
 ## 2026
 
@@ -37,13 +37,13 @@ Selected talks, seminars, and conference presentations.
 ## 2024
 
 **How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
-*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk; AERE Summer Workshop on Environment, Energy, and Transportation*
+*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk*
 
 **Health Economics and Education Economics: Policy, Skill, and Pollution**  
 *Asia Meeting of the Econometric Society*
 
 **Climate Change and Urban Heat Stress**  
-*International Symposium of Spatiotemporal Data Science*
+*Harvard Center for Geographic Analysis Conference, International Symposium of Spatiotemporal Data Science*
 
 **Environmental Data Science**  
 *Division of Geological and Planetary Sciences, California Institute of Technology*
@@ -60,4 +60,4 @@ Selected talks, seminars, and conference presentations.
 ## 2022
 
 **How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
-*Nordic Annual Environmental and Resource Economics Conference; Annual Meeting of the Norwegian Association of Economists; Urban Transitions Conference; Annual Meeting of the Southern Economic Association; Economics Department Seminar, Norwegian University of Science and Technology;Norwegian Public Road Administration; Method Development and Analytics Department, Norwegian Institute of Public Health *
+*Nordic Annual Environmental and Resource Economics Conference; Annual Meeting of the Norwegian Association of Economists; Urban Transitions Conference; Annual Meeting of the Southern Economic Association; Economics Department Seminar, Norwegian University of Science and Technology; Norwegian Public Roads Administration; Method Development and Analytics Department, Norwegian Institute of Public Health*

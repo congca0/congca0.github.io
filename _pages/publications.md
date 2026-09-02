@@ -5,10 +5,9 @@ author_profile: true
 ---
 
 
-For the most up-to-date list of my publications and citations, please visit
-my Google Scholar profile.
+For my latest publications and citation record, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en).
 
-[Google Scholar →](https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en)
+ 
 
 ---
  

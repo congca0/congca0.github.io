@@ -1,127 +1,94 @@
- ---
+---
 permalink: /research/
 title: "Research"
 author_profile: true
 ---
 
-# Research
-
-I work at the intersection of causal inference, machine learning, and
-biomedical data science. My research develops statistical and computational
-methods for understanding complex health data and improving clinical
-decision-making.
-
-My work has evolved from machine learning for environmental and population
-health to causal and multimodal methods for biomedical research.
+I work on causal inference, AI, and machine learning for biomedical data,
+with a focus on improving how we understand complex health data and make
+clinical decisions.
 
 ---
 
-## Causal Inference and Clinical Decision-Making
+## Causal AI and Clinical Decision-Making
 
-My current work focuses on causal inference and machine learning for
-understanding differences in treatment response across patients.
+I develop causal inference and AI methods for clinical and surgical
+applications.
 
-I am particularly interested in individualized treatment-effect estimation
-and in developing methods that can make better use of the rich clinical and
-biological information available in modern healthcare data.
+![Causal AI and Clinical Decision-Making](/images/research/causal_ai_simple.gif)
 
-### Individualized Treatment Effects
+### Selected Work
 
-I study how treatment effects vary across individuals and develop causal
-machine learning methods for estimating these differences using clinical
-and real-world data.
+- [Causal Inference under Interference with Learned Exposure Mappings](https://arxiv.org/abs/2608.19224)
 
-This work draws on large-scale healthcare datasets, including data from the
-VA Cooperative Studies Program and the All of Us Research Program.
+- [When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation](https://arxiv.org/abs/2609.00071)
 
-### Causal Inference with Interference
+- [AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program](https://www.medrxiv.org/content/10.64898/2026.06.18.26355982v2)
 
-I also study causal inference in settings where individuals may be affected
-by treatments received by others. One focus is uncertainty about how
-individual-level treatments combine to form the relevant exposure for a
-given outcome.
-
-This work develops methods for causal estimation when these exposure
-relationships are not known in advance.
+- [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)
 
 ---
 
-## Multimodal Biomedical Data
+## Representation Learning and Multimodal Biomedical Data
 
-Modern biomedical studies combine information from many sources, including
-clinical measurements, laboratory data, behavioral factors, socioeconomic
-characteristics, and genomics.
+Biomedical research increasingly brings together data from many sources,
+including clinical, laboratory, behavioral, socioeconomic, and genomic data.
 
-I develop representation learning methods for bringing these different
-sources of information together while preserving structure that is useful
-for statistical and biomedical analysis.
+I develop representation learning methods for integrating these data while
+capturing latent structure that can be useful for biomedical research.
+I am particularly interested in using learned representations to study
+complex relationships and potential mechanisms in high-dimensional health data.
 
-### Latent Structure in Multimodal Biomedical Data
+![Representation Learning and Multimodal Biomedical Data](/images/research/representation_learning_simple_v3.gif)
 
-In recent work with Shuangge Ma, I developed a multimodal representation
-learning framework for studying latent structures across socioeconomic,
-psychosocial, clinical, laboratory, behavioral, and genomic data.
+### Selected Work
 
-The framework combines representation learning with causal mediation
-analysis to study relationships associated with cardiometabolic
-multimorbidity.
+- [AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity](https://www.medrxiv.org/content/10.64898/2026.06.17.26355907v2.full)
 
-[View paper →](https://arxiv.org/abs/2608.04016)
+- [Different representation learning objectives recover distinct latent structures from the same psychometric data](https://arxiv.org/abs/2609.00100)
 
 ---
 
 ## Environmental and Population Health
 
 Earlier in my research, I used machine learning and statistical methods to
-study environmental exposures and population health.
+study environmental exposures, population health, and social vulnerability.
 
-I worked with large longitudinal datasets combining air pollution, weather,
-traffic, climate, and health information. These projects provided the
-foundation for my later work in biomedical data science and causal
-inference.
+This work combined large-scale data on air pollution, weather, traffic,
+climate, health, and sociodemographic factors.
 
-### Environmental Exposure and Health
+![Environmental and Population Health](/images/research/environmental_health_simple.gif)
 
-I developed machine learning methods to study nonlinear and time-varying
-relationships among traffic, air pollution, weather, and cardiopulmonary
-health outcomes using data from Norway.
+### Selected Work
 
-### Physics-Informed Machine Learning
+- [Modeling impacts of traffic, air pollution, and weather conditions on cardiopulmonary disease mortality](https://doi.org/10.1177/14034948241290852)
 
-I developed machine learning methods that incorporate physical and
-scientific knowledge into environmental prediction models, with applications
-to urban air pollution.
+- [How to better predict the effect of urban traffic and weather on air pollution? Norwegian evidence from machine learning approaches](https://doi.org/10.1016/j.jebo.2024.03.018)
 
-### Longitudinal Environmental Data
+- [Interaction between Climate Factors and Air Quality in Three Norwegian Cities: A machine learning analysis](https://doi.org/10.1016/j.aeaoa.2025.100366)
 
-I independently developed a longitudinal data resource combining ten years
-of daily weather, traffic, and air pollution data across six major
-Norwegian cities.
+- [Physics-based machine learning for predicting urban air pollution using decadal time series data](https://doi.org/10.1088/2515-7620/add795)
 
----
+- [Integration of ten years of daily weather, traffic, and air pollution data from Norway's six largest cities](https://doi.org/10.1038/s41597-024-03583-8)
 
-## Research Interests
-
-Causal Inference · Causal AI · Statistical Machine Learning ·
-Biomedical Data Science · Representation Learning · Precision Medicine
+- [Inequitable efficiency: Unravelling the social and built environment drivers of London's housing energy performance](https://doi.org/10.1016/j.enpol.2025.115057)
 
 ---
 
 ## Research Leadership and Funding
 
-**Lead Investigator, Approved MWCCS Scientific Concept (X24047), MWCCS (MACS/WIHS Combined Cohort Study)**  
-*2024–2032*
+**Lead Investigator, Approved MWCCS Scientific Concept (X24047)**  
+*MACS/WIHS Combined Cohort Study (MWCCS)* · 2024–2032
 
-I lead a project using causal machine learning to study environmental exposures,
-genetic susceptibility, and biological aging in a national longitudinal HIV cohort.
+I lead a project using causal machine learning to study environmental
+exposures, genetic susceptibility, and biological aging.
 
-**Competitive Research Funding Recipient, COMPAMA**  
-*Norwegian Research Council, 2022*
+**Competitive Research Funding Recipient**  
+*COMPAMA, Norwegian Research Council* · 2022
 
-Awarded competitive funding supporting research activities and a visiting scholarship at the
-University of Pennsylvania.
+Supported research activities and a visiting scholarship at the University of Pennsylvania.
 
 **Full Scholarship Recipient**  
-*Norwegian Public Roads Administration, 2020–2023*
+*Norwegian Public Roads Administration* · 2020–2023
 
 Full doctoral scholarship supporting my PhD research.
