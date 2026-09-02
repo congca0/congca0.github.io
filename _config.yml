@@ -1,359 +1,208 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+ ---
+permalink: /
 title: "Cong Cao"
-name: "Cong Cao"
-description: "Research Fellow at Stanford University"
-url: "https://congcao.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+author_profile: true
+redirect_from:
+  - /about/
+---
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+<div class="home-hero">
 
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+# Cong Cao
 
+### Research Fellow · Department of Surgery · Stanford University
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+<p class="hero-subtitle">
+Causal AI · Causal Inference · Biomedical Data Science
+</p>
 
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+<p class="hero-statement">
+I develop causal AI methods to understand heterogeneous treatment response
+and improve clinical decision-making.
+</p>
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+<div class="hero-links">
+<a href="/research/">Research</a>
+<a href="/publications/">Publications</a>
+<a href="/cv/">CV</a>
+<a href="https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en">Google Scholar</a>
+<a href="https://github.com/congca2">GitHub</a>
+</div>
 
-# Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+</div>
 
+---
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+## Research
 
+My research develops statistical and machine learning methods for understanding
+why patients respond differently to the same treatment.
 
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+<div class="research-grid">
 
+<div class="research-card">
 
-# Analytics
-analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
+### 01 · Treatment Effect Heterogeneity
 
+**Who benefits?**
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - local
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+I develop causal inference and machine learning methods to identify
+heterogeneous treatment effects and characterize which patients are most
+likely to benefit from a given intervention.
 
+</div>
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+<div class="research-card">
 
+### 02 · Mechanism Discovery
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+**Why does treatment work?**
 
+I develop representation learning and causal mediation methods to identify
+biological and behavioral pathways underlying heterogeneous treatment effects.
 
-# These settings control the types of collections used by the template
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+</div>
 
+<div class="research-card">
 
-# These settings control how pages and collections are included in the site
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+### 03 · Clinical Decision-Making
 
+**How can we use this knowledge?**
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+I develop mechanism-informed approaches for treatment selection,
+transportability, and precision clinical decision-making.
 
+</div>
 
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+</div>
 
+---
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+## Selected Work
 
-# Mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
+### Mechanism-Informed Causal AI for Precision Treatment Decisions
 
+I develop causal AI methods that integrate treatment-effect heterogeneity
+with mechanistic information to support individualized treatment decisions
+in metabolic disease.
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+**Current project · Stanford University**
 
+---
 
-# HTML Compression
-# - https://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+### Multimodal Representation Learning for Mechanism Discovery
+
+I develop multimodal representation learning methods to uncover latent
+mediation structures across socioeconomic, psychosocial, clinical,
+laboratory, behavioral, and genomic information.
+
+**Cao & Ma · 2026**
+
+[View paper](https://arxiv.org/abs/2608.04016)
+
+---
+
+### Causal Inference under Interference with Learned Exposure Mappings
+
+I study causal inference when individuals' outcomes may depend on the
+treatments received by others, with a focus on learning exposure mappings
+from complex data.
+
+**Current research**
+
+---
+
+## Selected Publications
+
+**Cao, C. & Ma, S. (2026).**  
+*AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity.*  
+arXiv preprint.
+
+[Paper](https://arxiv.org/abs/2608.04016)
+
+---
+
+**Cao, C. & Ma, S. (2026).**  
+*AI-Assisted Longitudinal Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties.*  
+arXiv preprint.
+
+[Paper](https://doi.org/10.48550/arXiv.2607.22640)
+
+---
+
+**Cao, C. (2024).**  
+*Integration of ten years of daily weather, traffic, and air pollution data across the six largest Norwegian cities.*  
+Scientific Data.
+
+[Paper](https://pubmed.ncbi.nlm.nih.gov/38982058/)
+
+---
+
+**Cao, C. (2024).**  
+*How to better predict the effect of urban traffic and weather on air pollution? Norwegian evidence from machine learning approaches.*  
+Journal of Economic Behavior & Organization, 221, 544–569.
+
+[Paper](https://www.sciencedirect.com/science/article/pii/S0167268124001112)
+
+---
+
+**Cao, C., Dyrstad, J. M., & Green, C. P. (2025).**  
+*Modeling impacts of traffic, air pollution, and weather conditions on cardiopulmonary disease mortality.*  
+Scandinavian Journal of Public Health.
+
+[Paper](https://doi.org/10.1177/14034948241290852)
+
+<div class="section-link">
+
+[View full publication list →](/publications/)
+
+</div>
+
+---
+
+## Current Position
+
+**Research Fellow**  
+Department of Surgery  
+Stanford University
+
+My current research focuses on causal AI, treatment effect heterogeneity,
+mechanism discovery, and precision treatment decisions in metabolic disease.
+
+### Previously
+
+**Postdoctoral Associate**  
+Department of Biostatistics, Yale School of Public Health
+
+**Research Statistician**  
+CSP Coordinating Center, VA Connecticut Healthcare System
+
+**Postdoctoral Teaching Fellow**  
+California Institute of Technology, 2023–2025
+
+**PhD in Economics, Machine Learning specialization**  
+Norwegian University of Science and Technology, 2023
+
+---
+
+## Academic Job Market
+
+### 2026–2027
+
+I am currently on the academic job market and am seeking
+**tenure-track faculty positions** in causal inference, biostatistics,
+data science, and AI for health.
+
+---
+
+## Contact
+
+**Cong Cao**  
+Research Fellow  
+Department of Surgery  
+Stanford University
+
+[CV](/cv/) ·
+[Google Scholar](https://scholar.google.com/citations?user=KoFMlFQAAAAJ&hl=en) ·
+[GitHub](https://github.com/congca2) ·
+[Email](mailto:YOUR_EMAIL)
