@@ -6,8 +6,6 @@ author_profile: true
 
 # Cong Cao
 
-**Causal AI · Causal Inference · Biomedical Data Science**
-
 I develop causal AI and statistical machine learning methods for biomedical data and precision treatment decisions.
 
 ---
