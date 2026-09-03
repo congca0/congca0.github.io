@@ -7,10 +7,15 @@ baseurl: ""
 # Site author
 author:
   name: ""
-  avatar: "profile.jpg"
+  avatar: "/images/profile.jpg"
   bio: "Postdoctoral Scholar, Stanford University"
   location: "Palo Alto, California"
   employer: "Stanford University"
+  email: "congc@stanford.edu"
+  github: "congca0"
+  googlescholar: "KoFMlFQAAAAJ"
+  orcid: "0000-0001-8289-1705"
+  linkedin: "cong-cao-70068839b"
 
 # Theme
 minimal_mistakes_skin: "air"
