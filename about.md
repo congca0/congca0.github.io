@@ -16,6 +16,8 @@ My research lies at the intersection of causal inference, statistical machine le
 
 I received my PhD in Economics, with a focus on machine learning, from the Norwegian University of Science and Technology in 2023 and previously held research and teaching appointments at Yale, Caltech, and other institutions.
 
+Associate Editor: Biometrics · Scandinavian Journal of Public Health
+
 ---
 
 ## Research Interests
