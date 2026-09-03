@@ -82,8 +82,7 @@ climate, health, and sociodemographic factors.
 **Lead Investigator, Approved MWCCS Scientific Concept (X24047)**  
 *MACS/WIHS Combined Cohort Study (MWCCS)* · 2024–2032
 
-I lead a project using causal machine learning to study environmental
-exposures, genetic susceptibility, and biological aging.
+Awarded project: Using Causal Machine Learning to explore the role of climate change, air pollution, and genetics in the aging of people with HIV
 
 **Competitive Research Funding Recipient**  
 *COMPAMA, Norwegian Research Council* · 2022
