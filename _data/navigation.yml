@@ -1,21 +1,21 @@
 main:
   - title: "About"
-    url: /
+    url: "/"
 
   - title: "Research"
-    url: /research/
+    url: "/research/"
 
   - title: "Publications"
-    url: /publications/
+    url: "/publications/"
 
   - title: "Teaching"
-    url: /teaching/
+    url: "/teaching/"
 
   - title: "Talks"
-    url: /talks/
+    url: "/talks/"
 
   - title: "Service"
-    url: /service/
+    url: "/service/"
 
-    - title: "Contact"
+  - title: "Contact"
     url: "/#contact"
