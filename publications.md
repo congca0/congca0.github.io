@@ -20,7 +20,3 @@ Awarded project: Using Causal Machine Learning to explore the role of climate ch
 
 Supported research activities and a visiting scholarship at the University of Pennsylvania.
 
-**Full Scholarship Recipient**  
-*Norwegian Public Roads Administration* · 2020–2023
-
-Full doctoral scholarship supporting my PhD research.
