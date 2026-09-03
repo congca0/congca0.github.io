@@ -30,6 +30,9 @@ My professional service includes editorial leadership, conference organization, 
 
 ## Conference Service
 
+**Scientific Organizing Committee Member**  
+*International Society of Exposure Science Annual Meeting*, 2025
+
 **Session Chair**  
 *Asia Meeting of the Econometric Society* — Health Economics and Education, 2024
 
@@ -38,9 +41,6 @@ My professional service includes editorial leadership, conference organization, 
 
 **Session Chair**  
 *Chinese Economists Society Annual Conference* — Health and Policy, 2025
-
-**Scientific Organizing Committee Member**  
-*International Society of Exposure Science Annual Meeting*, 2025
 
 **Conference Reviewer**  
 *American Public Health Association (APHA) Annual Meeting*, 2025  
