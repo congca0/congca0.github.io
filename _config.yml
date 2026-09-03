@@ -7,7 +7,7 @@ baseurl: ""
 # Site author
 author:
   name: ""
-  avatar: "/images/profile.jpg"
+  avatar: "profile.jpg"
   bio: "Postdoctoral Scholar, Stanford University"
   location: "Palo Alto, California"
   employer: "Stanford University"
