@@ -75,21 +75,4 @@ climate, health, and sociodemographic factors.
 
 - [Inequitable efficiency: Unravelling the social and built environment drivers of London's housing energy performance](https://doi.org/10.1016/j.enpol.2025.115057)
 
----
 
-## Research Leadership and Funding
-
-**Lead Investigator, Approved MWCCS Scientific Concept (X24047)**  
-*MACS/WIHS Combined Cohort Study (MWCCS)* · 2024–2032
-
-Awarded project: Using Causal Machine Learning to explore the role of climate change, air pollution, and genetics in the aging of people with HIV
-
-**Competitive Research Funding Recipient**  
-*COMPAMA, Norwegian Research Council* · 2022
-
-Supported research activities and a visiting scholarship at the University of Pennsylvania.
-
-**Full Scholarship Recipient**  
-*Norwegian Public Roads Administration* · 2020–2023
-
-Full doctoral scholarship supporting my PhD research.
