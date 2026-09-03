@@ -1,20 +1,19 @@
----
+ ---
 permalink: /service/
 title: "Service"
 author_profile: true
 ---
 
-
 My professional service includes editorial leadership, conference organization, peer review, and engagement with the broader public health and research community.
 
 ## Editorial Service
 
-**Associate Editor**  
-*Biometrics*  
+**Nordic Co-Editor**  
+*[Scandinavian Journal of Public Health](https://journals.sagepub.com/editorial-board/sjp)*  
 2026–present
 
 **Associate Editor**  
-*Scandinavian Journal of Public Health*  
+*[Biometrics](https://academic.oup.com/biometrics/pages/editorial-board)*  
 2026–present
 
 **Editorial Board Member**  
@@ -26,7 +25,6 @@ My professional service includes editorial leadership, conference organization, 
 2026–present
 
 ---
-
 
 ## Conference Service
 
@@ -53,6 +51,7 @@ Reviewed four conference submissions.
 ---
 
 ## Journal Review
+
 ### Health
 
 - *BMC Public Health*
@@ -73,7 +72,6 @@ Reviewed four conference submissions.
 - *Journal of Environmental Economics and Policy*
 
 [View detailed review record on ORCID →](https://orcid.org/0000-0001-8289-1705)
-
 
 ---
 
