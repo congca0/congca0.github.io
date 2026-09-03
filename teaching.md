@@ -4,11 +4,6 @@ title: "Teaching"
 author_profile: true
 ---
 
-
-I have taught courses in public health, economics and AI, 
-with additional experience mentoring students in causal inference, deep 
-learning, and biomedical data science.
-
 **Instructor of Record**  
 *Introduction to Public Health Economics and Policy*  
 California Institute of Technology, 2023–2025
