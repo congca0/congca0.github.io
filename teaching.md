@@ -4,8 +4,8 @@ author_profile: true
 ---
 
 **Instructor of Record**  
-*Introduction to Public Health Economics and Policy*  
-California Institute of Technology, 2023–2025
+*[Introduction to Public Health Economics and Policy](https://www.hss.caltech.edu/undergraduate-studies/course-descriptions-23-24/psec-128)*  
+California Institute of Technology, Spring 2023–2024 and Spring 2024–2025
 
 Designed and independently taught a new interdisciplinary undergraduate 
 course integrating public health, economics, data science, and artificial intelligence.
