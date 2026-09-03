@@ -7,7 +7,7 @@ baseurl: ""
 # Site author
 author:
   name: "Cong Cao"
-  avatar: "profile.png"
+  avatar: "/images/profile.png"
   bio: "Postdoctoral Scholar, Department of Surgery, Stanford University"
   location: "Palo Alto, California"
   employer: "Stanford University"
