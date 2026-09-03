@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 ---
 
-**Causal AI** · **Precision Medicine**
+**Causal AI** · **Biomedical AI** · **Precision Medicine**
 
 I develop causal AI and statistical machine learning methods for biomedical data and precision treatment decisions.
 
@@ -12,7 +12,9 @@ I develop causal AI and statistical machine learning methods for biomedical data
 
 I am a Postdoctoral Scholar in the Department of Surgery at Stanford University and a Research Statistician with the U.S. Department of Veterans Affairs.
 
-My research lies at the intersection of causal inference, statistical machine learning, and biomedical data science. I develop methods for heterogeneous treatment effect estimation, causal mediation analysis, mechanistic discovery, and interpretable AI to understand why patients respond differently to the same treatment and to improve clinical decision-making.
+My research lies at the intersection of **causal AI, causal inference, statistical machine learning, and biomedical data science**. I develop AI and statistical methods for heterogeneous treatment effect estimation, causal mediation analysis, mechanistic discovery, and interpretable clinical decision-making.
+
+My work aims to move beyond prediction toward understanding **why treatments work, for whom they work, and how AI can support better treatment decisions**.
 
 I received my PhD in Economics, with a focus on machine learning, from the Norwegian University of Science and Technology in 2023. I previously held research and teaching appointments at Yale and Caltech.
 
@@ -22,7 +24,7 @@ I received my PhD in Economics, with a focus on machine learning, from the Norwe
 
 ## Research Interests
 
-**Causal AI** · **Causal Inference** · **Statistical Machine Learning** · **Causal Mediation Analysis** · **Biomedical Data Science** · **Precision Medicine**
+**Causal AI** · **Biomedical AI** · **Causal Inference** · **Statistical Machine Learning** · **Causal Mediation Analysis** · **Precision Medicine**
 
 ---
 
