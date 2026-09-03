@@ -22,7 +22,7 @@ I received my PhD in Economics, with a focus on machine learning, from the Norwe
 
 ## Research Interests
 
-**Causal AI** · **Biomedical AI** · **Causal Inference** · **Statistical Machine Learning** · **Causal Mediation Analysis** · **Precision Medicine**
+Causal AI · Biomedical AI · Statistical Machine Learning · Causal Mediation Analysis · Precision Medicine
 
 ---
 
