@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 ---
 
-**Causal AI · Biomedical AI · Precision Medicine**
+**Causal AI · Mechanism-Informed AI · Precision Medicine**
 
 I develop AI and statistical machine learning methods for biomedical data and precision medicine.
 
