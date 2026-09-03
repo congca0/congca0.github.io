@@ -7,9 +7,6 @@ Selected invited talks, seminars, and conference presentations.
 
 ## 2026
 
-**A Causal AI Pipeline for Mechanism Discovery in Real-World Health Data**  
-*INFORMS Annual Meeting*
-
 **Generative AI Models for Causal Mediation Analysis with Network Outcomes**  
 *Joint Statistical Meetings (JSM), Causal Inference with Interference Session*
 
