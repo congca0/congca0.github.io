@@ -5,4 +5,4 @@ My research sits at the intersection of <strong style="color: #8B0000;">causal i
 
 I also serve as a Nordic Co-Editor of the *Scandinavian Journal of Public Health* and an Associate Editor of *Biometrics*.
 
-<strong style="color: #8B0000;">Research Interests:</strong> Mechanism-Informed Causal AI · Causal Inference · Machine Learning · Health Economics · Health Policy · Precision Health
+<strong style="color: #8B0000;">Research Interests:</strong> Mechanism-Informed Causal AI · Causal Inference · Machine Learning · Health Economics and Policy · Precision Health
