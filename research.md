@@ -4,12 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-I work on causal inference, AI, and machine learning for biomedical data,
-with a focus on improving how we understand complex health data and make
-clinical decisions.
-
----
-
 ## Causal AI and Clinical Decision-Making
 
 I develop causal inference and AI methods for clinical and surgical
