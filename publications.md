@@ -16,7 +16,7 @@ For my latest publications, please visit my [Google Scholar profile](https://sch
 Awarded project: Using Causal Machine Learning to explore the role of climate change, air pollution, and genetics in the aging of people with HIV
 
 **Competitive Research Funding Recipient**  
-*COMPAMA, Norwegian Research Council* · 2022
+*Computational Economics and Optimization, Norwegian Research Council* · 2022
 
 Supported research activities and a visiting scholarship at the University of Pennsylvania.
 
