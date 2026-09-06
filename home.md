@@ -9,4 +9,4 @@ I received my PhD in Economics, with a focus on machine learning, from the Norwe
 
 I also serve as a Nordic Co-Editor of the *Scandinavian Journal of Public Health* and an Associate Editor of *Biometrics*.
 
-<strong style="color: #8B0000;">Research Interests:</strong> Causal AI · Causal Inference · Machine Learning · Population Health · Precision Medicine · Real-World Evidence
+<strong style="color: #8B0000;">Research Interests:</strong> Causal AI · Machine Learning · Population Health · Precision Medicine · Real-World Evidence
