@@ -1,12 +1,4 @@
 ---
-permalink: /about/
-title: "About"
-author_profile: true
----
-
-## My Journey
-
----
 title: "About"
 permalink: /about/
 ---
@@ -616,7 +608,3 @@ permalink: /about/
 
 })();
 </script>
-
-From environmental health to precision health at Stanford, my research journey has crossed pharmaceutical engineering, healthcare technology, biomedical science, economics, and AI.
-
-
