@@ -510,7 +510,9 @@ permalink: /about/
     <h2>My Journey</h2>
 
     <p>
-      A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on causal AI for precision medicine.
+      A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on Mechanism-Informed Causal AI for Precision Medicine. 
+
+
     </p>
 
   </div>
@@ -776,8 +778,8 @@ permalink: /about/
       <div
         class="timeline-item active"
         data-title="Stanford"
-        data-field="AI for Medicine"
-        data-description="At Stanford, I work on AI for precision medicine, focusing on understanding variation in treatment effects and supporting personalized treatment decisions."
+        data-field="Mechanism-Informed Causal AI"
+        data-description="At Stanford, I work on Mechanism-Informed Causal AI for Precision Medicine, focusing on understanding variation in treatment effects and supporting personalized treatment decisions."
       >
 
         <div class="click-here">
@@ -791,7 +793,7 @@ permalink: /about/
           </div>
 
           <div class="timeline-field">
-            AI for Precision Medicine
+            Mechanism-Informed Causal AI
           </div>
 
         </div>
