@@ -776,8 +776,8 @@ permalink: /about/
       <div
         class="timeline-item active"
         data-title="Stanford"
-        data-field="Precision Medicine"
-        data-description="At Stanford, I work on AI for precision medicine, developing quantitative methods to understand variation in treatment effects and support personalized treatment decisions."
+        data-field="AI for Medicine"
+        data-description="At Stanford, I work on AI for precision medicine, focusing on understanding variation in treatment effects and supporting personalized treatment decisions."
       >
 
         <div class="click-here">
