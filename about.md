@@ -7,6 +7,7 @@ permalink: /about/
 
 /* =========================================================
    ABOUT — INTERACTIVE ACADEMIC JOURNEY
+   Stanford Cardinal Red
    ========================================================= */
 
 .journey {
@@ -36,14 +37,14 @@ permalink: /about/
 
 .journey-intro h2 {
   margin-bottom: 14px;
-  color: #193b67;
+  color: #8C1515;
   font-size: 30px;
   font-weight: 700;
 }
 
 .journey-intro p {
   margin: 0;
-  color: #526b88;
+  color: #4F4F4F;
   font-size: 17px;
   line-height: 1.75;
 }
@@ -93,13 +94,13 @@ permalink: /about/
 
   height: 4px;
 
-  background: #b9c9dc;
+  background: #D8B4B4;
 
   border-radius: 10px;
 }
 
 
-/* Blue progress line */
+/* Stanford red progress line */
 
 .timeline-progress {
   position: absolute;
@@ -112,11 +113,7 @@ permalink: /about/
 
   height: 4px;
 
-  background: linear-gradient(
-    90deg,
-    #4d8fd8,
-    #2878d4
-  );
+  background: #8C1515;
 
   border-radius: 10px;
 
@@ -137,7 +134,6 @@ permalink: /about/
    ========================================================= */
 
 .timeline-item {
-
   position: relative;
 
   width: 120px;
@@ -149,7 +145,6 @@ permalink: /about/
   cursor: pointer;
 
   z-index: 3;
-
 }
 
 
@@ -158,7 +153,6 @@ permalink: /about/
    ========================================================= */
 
 .click-here {
-
   display: inline-block;
 
   margin-bottom: 9px;
@@ -167,11 +161,11 @@ permalink: /about/
 
   border-radius: 20px;
 
-  background: #edf5ff;
+  background: #F9EEEE;
 
-  border: 1px solid #c7ddf5;
+  border: 1px solid #E6C7C7;
 
-  color: #2878d4;
+  color: #8C1515;
 
   font-size: 11px;
 
@@ -191,8 +185,7 @@ permalink: /about/
 }
 
 
-/* Slightly different animation timing
-   for each node */
+/* Slightly different animation timing */
 
 .timeline-item:nth-child(3) .click-here {
   animation-delay: 0.2s;
@@ -226,10 +219,9 @@ permalink: /about/
 /* Hover */
 
 .timeline-item:hover .click-here {
+  background: #8C1515;
 
-  background: #2878d4;
-
-  border-color: #2878d4;
+  border-color: #8C1515;
 
   color: #ffffff;
 
@@ -241,7 +233,7 @@ permalink: /about/
 
   box-shadow:
     0 5px 14px
-    rgba(40, 120, 212, 0.22);
+    rgba(140, 21, 21, 0.20);
 
   animation: none;
 }
@@ -250,10 +242,9 @@ permalink: /about/
 /* Active */
 
 .timeline-item.active .click-here {
+  background: #8C1515;
 
-  background: #2878d4;
-
-  border-color: #2878d4;
+  border-color: #8C1515;
 
   color: #ffffff;
 
@@ -261,7 +252,7 @@ permalink: /about/
 
   box-shadow:
     0 5px 16px
-    rgba(40, 120, 212, 0.24);
+    rgba(140, 21, 21, 0.22);
 
   animation: none;
 }
@@ -270,7 +261,6 @@ permalink: /about/
 /* Click animation */
 
 @keyframes clickPulse {
-
   0%,
   100% {
     opacity: 0.62;
@@ -281,7 +271,6 @@ permalink: /about/
     opacity: 1;
     transform: translateY(-2px);
   }
-
 }
 
 
@@ -290,15 +279,12 @@ permalink: /about/
    ========================================================= */
 
 .timeline-label {
-
   height: 58px;
-
 }
 
 
 .timeline-place {
-
-  color: #193b67;
+  color: #333333;
 
   font-size: 17px;
 
@@ -307,36 +293,29 @@ permalink: /about/
   line-height: 1.25;
 
   white-space: nowrap;
-
 }
 
 
 .timeline-field {
-
   margin-top: 6px;
 
-  color: #3e73b7;
+  color: #777777;
 
   font-size: 13px;
 
   line-height: 1.3;
-
 }
 
 
 /* Active text */
 
 .timeline-item.active .timeline-place {
-
-  color: #0e56a3;
-
+  color: #8C1515;
 }
 
 
 .timeline-item.active .timeline-field {
-
-  color: #2878d4;
-
+  color: #8C1515;
 }
 
 
@@ -345,7 +324,6 @@ permalink: /about/
    ========================================================= */
 
 .timeline-dot {
-
   position: relative;
 
   width: 18px;
@@ -354,48 +332,43 @@ permalink: /about/
 
   margin: 25px auto 0;
 
-  background: #b8c7da;
+  background: #C9A3A3;
 
-  border: 4px solid #f8fbff;
+  border: 4px solid #ffffff;
 
   border-radius: 50%;
 
   box-shadow:
-    0 0 0 2px #b8c7da;
+    0 0 0 2px #C9A3A3;
 
   transition:
     all 0.3s ease;
-
 }
 
 
 /* Hover */
 
 .timeline-item:hover .timeline-dot {
-
-  background: #6b9ed5;
+  background: #A85C5C;
 
   box-shadow:
-    0 0 0 3px #6b9ed5;
+    0 0 0 3px #A85C5C;
 
   transform: scale(1.15);
-
 }
 
 
 /* Active */
 
 .timeline-item.active .timeline-dot {
-
-  background: #2878d4;
+  background: #8C1515;
 
   box-shadow:
-    0 0 0 4px #2878d4,
+    0 0 0 4px #8C1515,
     0 0 22px
-    rgba(40, 120, 212, 0.35);
+    rgba(140, 21, 21, 0.28);
 
   transform: scale(1.2);
-
 }
 
 
@@ -404,7 +377,6 @@ permalink: /about/
    ========================================================= */
 
 .journey-card {
-
   margin: 40px 35px 0;
 
   padding: 30px 38px;
@@ -414,77 +386,68 @@ permalink: /about/
   background:
     linear-gradient(
       135deg,
-      #f1f7fd 0%,
+      #FBF5F5 0%,
       #ffffff 100%
     );
 
-  border: 1px solid #cbdced;
+  border: 1px solid #E1CACA;
 
   border-radius: 20px;
 
   box-shadow:
     0 8px 28px
-    rgba(35, 70, 105, 0.08);
+    rgba(80, 40, 40, 0.07);
 
   transition:
     opacity 0.2s ease,
     transform 0.2s ease;
-
 }
 
 
 .journey-card.fade {
-
   opacity: 0;
 
   transform:
     translateY(8px);
-
 }
 
 
 .journey-title {
-
   margin: 0;
 
-  color: #193b67;
+  color: #8C1515;
 
   font-size: 27px;
 
   line-height: 1.25;
 
   font-weight: 700;
-
 }
 
 
 .journey-field {
-
   margin-top: 8px;
 
-  color: #3278c8;
+  color: #8C1515;
 
   font-size: 17px;
 
   line-height: 1.4;
 
   font-weight: 500;
-
 }
 
 
 .journey-description {
-
   margin-top: 15px;
 
   margin-bottom: 0;
 
-  color: #526b88;
+  color: #4F4F4F;
 
   font-size: 16px;
 
   line-height: 1.7;
-
 }
 
 
@@ -547,7 +510,7 @@ permalink: /about/
     <h2>My Journey</h2>
 
     <p>
-     A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing quantitative methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on precision medicine.
+      A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing quantitative methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on precision medicine.
     </p>
 
   </div>
@@ -580,7 +543,7 @@ permalink: /about/
            ================================================= -->
 
       <div
-        class="timeline-item active"
+        class="timeline-item"
         data-title="China"
         data-field="Environment"
         data-description="Grew up in one of China’s major coal-producing regions, where I became interested in the relationship between environmental exposures and human health."
@@ -781,7 +744,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Yale"
         data-field="Causal AI"
-        data-description=" At Yale and VA, I moved more directly into causal AI for health research, studying treatment effects using large-scale observational and clinical trial data."
+        data-description="At Yale and VA, I moved more directly into causal AI for health research, studying treatment effects using large-scale observational and clinical trial data."
       >
 
         <div class="click-here">
@@ -811,7 +774,7 @@ permalink: /about/
            ================================================= -->
 
       <div
-        class="timeline-item"
+        class="timeline-item active"
         data-title="Stanford"
         data-field="Precision Medicine"
         data-description="At Stanford, I work on AI for precision medicine, developing quantitative methods to understand variation in treatment effects and support personalized treatment decisions."
@@ -857,7 +820,7 @@ permalink: /about/
       class="journey-title"
       id="journeyTitle"
     >
-      China
+      Stanford
     </h3>
 
 
@@ -865,7 +828,7 @@ permalink: /about/
       class="journey-field"
       id="journeyField"
     >
-      Environment
+      Precision Medicine
     </div>
 
 
@@ -873,7 +836,7 @@ permalink: /about/
       class="journey-description"
       id="journeyDescription"
     >
-     Grew up in one of China’s major coal-producing regions, where I became interested in the relationship between environmental exposures and human health.
+      At Stanford, I work on AI for precision medicine, developing quantitative methods to understand variation in treatment effects and support personalized treatment decisions.
     </p>
 
   </div>
@@ -1046,10 +1009,11 @@ permalink: /about/
      ======================================================= */
 
   updateJourney(
-    items[0],
-    0
+    items[6],
+    6
   );
 
 })();
 
 </script>
+
