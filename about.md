@@ -510,7 +510,7 @@ permalink: /about/
     <h2>My Journey</h2>
 
     <p>
-      A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing quantitative methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on precision medicine.
+      A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on causal AI for precision medicine.
     </p>
 
   </div>
