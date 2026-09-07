@@ -791,7 +791,7 @@ permalink: /about/
           </div>
 
           <div class="timeline-field">
-            Precision Medicine
+            AI for Precision Medicine
           </div>
 
         </div>
