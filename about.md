@@ -547,13 +547,7 @@ permalink: /about/
     <h2>My Journey</h2>
 
     <p>
-      A common theme runs through my work: understanding why health
-      outcomes differ across people, environments, and treatments,
-      and developing quantitative methods to better understand and
-      address these differences. My work has taken me across
-      environmental health, biomedical science, economics,
-      machine learning, and causal AI, and now focuses on
-      population health and precision medicine.
+     A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing quantitative methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, population health, and causal AI, and now focuses on precision medicine.
     </p>
 
   </div>
@@ -589,7 +583,7 @@ permalink: /about/
         class="timeline-item active"
         data-title="China"
         data-field="Environment"
-        data-description="Grew up in one of China’s major coal-producing regions, where I became interested in environmental health and the relationship between environmental exposures and human health."
+        data-description="Grew up in one of China’s major coal-producing regions, where I became interested in the relationship between environmental exposures and human health."
       >
 
         <div class="click-here">
@@ -655,7 +649,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Helmholtz Centre"
         data-field="Biomedical Data"
-        data-description="At the Helmholtz Centre for Infection Research in Germany, I worked with mass spectrometry data and machine learning to study biomedical and virological questions."
+        data-description="At the Helmholtz Centre for Infection Research in Germany, I applied machine learning to mass spectrometry data to study molecular signatures of viral infection."
       >
 
         <div class="click-here">
@@ -721,7 +715,7 @@ permalink: /about/
         class="timeline-item"
         data-title="NTNU, Norway"
         data-field="Economics + ML"
-        data-description="During my Ph.D. in Economics, with a focus on machine learning, I studied nonlinear and delayed relationships between air pollution, weather, and cardiovascular health using nationwide data from Norway."
+        data-description="During my Ph.D., I studied nonlinear and delayed relationships between air pollution, weather, and cardiovascular health using nationwide data from Norway."
       >
 
         <div class="click-here">
@@ -787,7 +781,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Yale"
         data-field="Causal AI"
-        data-description="At Yale, I moved more directly into causal AI for health research, studying treatment effects using large-scale observational and clinical trial data."
+        data-description=" At Yale and VA, I moved more directly into causal AI for health research, studying treatment effects using large-scale observational and clinical trial data."
       >
 
         <div class="click-here">
@@ -820,7 +814,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Stanford"
         data-field="Precision Medicine"
-        data-description="At Stanford, I work on AI for precision medicine, developing quantitative approaches to understand variation in health and treatment outcomes and to support more informed treatment decisions."
+        data-description="At Stanford, I work on AI for precision medicine, developing quantitative methods to understand variation in treatment effects and support personalized treatment decisions."
       >
 
         <div class="click-here">
@@ -879,10 +873,7 @@ permalink: /about/
       class="journey-description"
       id="journeyDescription"
     >
-      Grew up in Shanxi Province, one of China’s major
-      coal-producing regions, where I became interested in
-      environmental health and the relationship between
-      environmental exposures and human health.
+     Grew up in one of China’s major coal-producing regions, where I became interested in the relationship between environmental exposures and human health.
     </p>
 
   </div>
