@@ -1,14 +1,10 @@
----
+ ---
+layout: page
 title: ""
 permalink: /about/
 ---
 
 <style>
-
-/* =========================================================
-   ABOUT — INTERACTIVE ACADEMIC JOURNEY
-   Stanford Cardinal Red
-   ========================================================= */
 
 .journey {
   width: 100%;
@@ -23,11 +19,6 @@ permalink: /about/
     Arial,
     sans-serif;
 }
-
-
-/* =========================================================
-   INTRO
-   ========================================================= */
 
 .journey-intro {
   max-width: 900px;
@@ -49,11 +40,6 @@ permalink: /about/
   line-height: 1.75;
 }
 
-
-/* =========================================================
-   TIMELINE WRAPPER
-   ========================================================= */
-
 .timeline-wrapper {
   width: 100%;
   overflow-x: auto;
@@ -63,60 +49,33 @@ permalink: /about/
   scrollbar-width: thin;
 }
 
-
-/* =========================================================
-   TIMELINE
-   ========================================================= */
-
 .timeline {
   position: relative;
-
   min-width: 1120px;
-
   padding: 0 35px;
-
   display: flex;
   justify-content: space-between;
 }
 
-
-/* Base horizontal line */
-
 .timeline::before {
   content: "";
-
   position: absolute;
-
   left: 60px;
   right: 60px;
-
   top: 125px;
-
   height: 4px;
-
   background: #D8B4B4;
-
   border-radius: 10px;
 }
 
-
-/* Stanford red progress line */
-
 .timeline-progress {
   position: absolute;
-
   left: 60px;
-
   top: 125px;
-
   width: 0;
-
   height: 4px;
-
   background: #8C1515;
-
   border-radius: 10px;
-
   transition:
     width 0.55s cubic-bezier(
       0.22,
@@ -124,68 +83,34 @@ permalink: /about/
       0.36,
       1
     );
-
   z-index: 1;
 }
 
-
-/* =========================================================
-   TIMELINE ITEM
-   ========================================================= */
-
 .timeline-item {
   position: relative;
-
   width: 120px;
-
   flex-shrink: 0;
-
   text-align: center;
-
   cursor: pointer;
-
   z-index: 3;
 }
 
-
-/* =========================================================
-   CLICK HERE LABEL
-   ========================================================= */
-
 .click-here {
   display: inline-block;
-
   margin-bottom: 9px;
-
   padding: 4px 10px;
-
   border-radius: 20px;
-
   background: #F9EEEE;
-
   border: 1px solid #E6C7C7;
-
   color: #8C1515;
-
   font-size: 11px;
-
   font-weight: 600;
-
   letter-spacing: 0.2px;
-
   opacity: 0.72;
-
   transform: translateY(0);
-
-  transition:
-    all 0.25s ease;
-
-  animation:
-    clickPulse 2.4s ease-in-out infinite;
+  transition: all 0.25s ease;
+  animation: clickPulse 2.4s ease-in-out infinite;
 }
-
-
-/* Slightly different animation timing */
 
 .timeline-item:nth-child(3) .click-here {
   animation-delay: 0.2s;
@@ -215,50 +140,28 @@ permalink: /about/
   animation-delay: 1.4s;
 }
 
-
-/* Hover */
-
 .timeline-item:hover .click-here {
   background: #8C1515;
-
   border-color: #8C1515;
-
   color: #ffffff;
-
   opacity: 1;
-
-  transform:
-    translateY(-3px)
-    scale(1.05);
-
+  transform: translateY(-3px) scale(1.05);
   box-shadow:
     0 5px 14px
     rgba(140, 21, 21, 0.20);
-
   animation: none;
 }
-
-
-/* Active */
 
 .timeline-item.active .click-here {
   background: #8C1515;
-
   border-color: #8C1515;
-
   color: #ffffff;
-
   opacity: 1;
-
   box-shadow:
     0 5px 16px
     rgba(140, 21, 21, 0.22);
-
   animation: none;
 }
-
-
-/* Click animation */
 
 @keyframes clickPulse {
   0%,
@@ -273,187 +176,110 @@ permalink: /about/
   }
 }
 
-
-/* =========================================================
-   PLACE + FIELD
-   ========================================================= */
-
 .timeline-label {
   height: 58px;
 }
 
-
 .timeline-place {
   color: #333333;
-
   font-size: 17px;
-
   font-weight: 700;
-
   line-height: 1.25;
-
   white-space: nowrap;
 }
 
-
 .timeline-field {
   margin-top: 6px;
-
   color: #777777;
-
   font-size: 13px;
-
   line-height: 1.3;
 }
-
-
-/* Active text */
 
 .timeline-item.active .timeline-place {
   color: #8C1515;
 }
 
-
 .timeline-item.active .timeline-field {
   color: #8C1515;
 }
 
-
-/* =========================================================
-   DOT
-   ========================================================= */
-
 .timeline-dot {
   position: relative;
-
   width: 18px;
-
   height: 18px;
-
   margin: 25px auto 0;
-
   background: #C9A3A3;
-
   border: 4px solid #ffffff;
-
   border-radius: 50%;
-
   box-shadow:
     0 0 0 2px #C9A3A3;
-
-  transition:
-    all 0.3s ease;
+  transition: all 0.3s ease;
 }
-
-
-/* Hover */
 
 .timeline-item:hover .timeline-dot {
   background: #A85C5C;
-
   box-shadow:
     0 0 0 3px #A85C5C;
-
   transform: scale(1.15);
 }
 
-
-/* Active */
-
 .timeline-item.active .timeline-dot {
   background: #8C1515;
-
   box-shadow:
     0 0 0 4px #8C1515,
     0 0 22px
     rgba(140, 21, 21, 0.28);
-
   transform: scale(1.2);
 }
 
-
-/* =========================================================
-   INFORMATION CARD
-   ========================================================= */
-
 .journey-card {
   margin: 40px 35px 0;
-
   padding: 30px 38px;
-
   min-height: 145px;
-
   background:
     linear-gradient(
       135deg,
       #FBF5F5 0%,
       #ffffff 100%
     );
-
   border: 1px solid #E1CACA;
-
   border-radius: 20px;
-
   box-shadow:
     0 8px 28px
     rgba(80, 40, 40, 0.07);
-
   transition:
     opacity 0.2s ease,
     transform 0.2s ease;
 }
 
-
 .journey-card.fade {
   opacity: 0;
-
-  transform:
-    translateY(8px);
+  transform: translateY(8px);
 }
-
 
 .journey-title {
   margin: 0;
-
   color: #8C1515;
-
   font-size: 27px;
-
   line-height: 1.25;
-
   font-weight: 700;
 }
 
-
 .journey-field {
   margin-top: 8px;
-
   color: #8C1515;
-
   font-size: 17px;
-
   line-height: 1.4;
-
   font-weight: 500;
 }
 
-
 .journey-description {
   margin-top: 15px;
-
   margin-bottom: 0;
-
   color: #4F4F4F;
-
   font-size: 16px;
-
   line-height: 1.7;
 }
-
-
-/* =========================================================
-   MOBILE
-   ========================================================= */
 
 @media (max-width: 700px) {
 
@@ -500,28 +326,16 @@ permalink: /about/
 
 <div class="journey">
 
-
-  <!-- =====================================================
-       INTRO
-       ===================================================== -->
-
   <div class="journey-intro">
 
     <h2>My Journey</h2>
 
     <p>
-      A common theme runs through my work: understanding why health outcomes differ across people, environments, and treatments, and developing methods to better understand and address these differences. My work has taken me across environmental health, biomedical science, economics, machine learning, biostatistics, causal AI, and now focuses on Mechanism-Informed Causal AI for Precision Medicine. 
-
-
+      My work focuses on understanding why health outcomes and treatment responses differ across people. Over time, I have worked across healthcare, environmental health, economics, machine learning, genomics, and biostatistics. These experiences have led me to my current work in Mechanism-Informed Causal AI for Precision Medicine.
     </p>
 
   </div>
 
-
-
-  <!-- =====================================================
-       TIMELINE
-       ===================================================== -->
 
   <div class="timeline-wrapper">
 
@@ -530,29 +344,23 @@ permalink: /about/
       id="academicTimeline"
     >
 
-
-      <!-- Progress -->
-
       <div
         class="timeline-progress"
         id="timelineProgress"
       ></div>
 
 
-
-      <!-- =================================================
-           CHINA
-           ================================================= -->
+      <!-- CHINA -->
 
       <div
         class="timeline-item"
         data-title="China"
         data-field="Environment"
-        data-description="Grew up in one of China’s major coal-producing regions, where I became interested in the relationship between environmental exposures and human health."
+        data-description="Growing up in Shanxi, a major coal-producing region in China, first led me to think about how environmental conditions can affect human health."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -572,20 +380,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           MEDTECH
-           ================================================= -->
+      <!-- MEDTECH -->
 
       <div
         class="timeline-item"
         data-title="MedTech"
         data-field="Healthcare"
-        data-description="I trained in pharmaceutical engineering and later worked in the medical technology industry, collaborating with physicians and software engineers on healthcare information systems."
+        data-description="I trained in pharmaceutical engineering and later worked in healthcare technology, developing clinical information systems and working with clinicians on operating room workflow."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -605,20 +410,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           HELMHOLTZ
-           ================================================= -->
+      <!-- HELMHOLTZ -->
 
       <div
         class="timeline-item"
         data-title="Helmholtz Centre"
-        data-field="Biomedical Data"
-        data-description="At the Helmholtz Centre for Infection Research in Germany, I applied machine learning to mass spectrometry data to study molecular signatures of viral infection."
+        data-field="Machine Learning"
+        data-description="At the Helmholtz Centre for Infection Research in Germany, I began applying machine learning to biomedical and epidemiological data."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -628,7 +430,7 @@ permalink: /about/
           </div>
 
           <div class="timeline-field">
-            Biomedical Data
+            Machine Learning
           </div>
 
         </div>
@@ -638,20 +440,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           GÖTTINGEN
-           ================================================= -->
+      <!-- GÖTTINGEN -->
 
       <div
         class="timeline-item"
         data-title="Göttingen"
         data-field="Genomics"
-        data-description="At the University of Göttingen, I worked with mRNA sequencing and single-cell transcriptomic data, developing a foundation in computational genomics and biomedical data science."
+        data-description="At the University of Göttingen, I worked with sequencing and transcriptomic data, developing a foundation in bioinformatics and computational genomics."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -671,20 +470,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           NTNU
-           ================================================= -->
+      <!-- NTNU -->
 
       <div
         class="timeline-item"
         data-title="NTNU, Norway"
         data-field="Economics + ML"
-        data-description="During my Ph.D., I studied nonlinear and delayed relationships between air pollution, weather, and cardiovascular health using nationwide data from Norway."
+        data-description="During my Ph.D., I combined economics, machine learning, and causal methods to study environmental exposures, transportation, and population health."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -704,20 +500,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           CALTECH
-           ================================================= -->
+      <!-- CALTECH -->
 
       <div
         class="timeline-item"
         data-title="Caltech"
-        data-field="Physics-Based Deep Learning"
-        data-description="At Caltech, I expanded my research across environmental exposures, aging, epigenetics, and postoperative outcomes, while collaborating with clinicians, epidemiologists, and biomedical scientists."
+        data-field="Physics-Based ML"
+        data-description="At Caltech, I explored how scientific knowledge and physical principles can be incorporated into machine learning, with applications in environmental health and population health."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -727,7 +520,7 @@ permalink: /about/
           </div>
 
           <div class="timeline-field">
-            Physics-Based Deep Learning
+            Physics-Based ML
           </div>
 
         </div>
@@ -737,20 +530,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           YALE
-           ================================================= -->
+      <!-- YALE -->
 
       <div
         class="timeline-item"
         data-title="Yale"
         data-field="Causal AI"
-        data-description="At Yale and VA, I moved more directly into causal AI for health research, studying treatment effects using large-scale observational and clinical trial data."
+        data-description="At Yale and VA, I moved toward causal AI and individualized treatment effects, using large-scale health data to study why patients respond differently to treatments."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -770,20 +560,17 @@ permalink: /about/
       </div>
 
 
-
-      <!-- =================================================
-           STANFORD
-           ================================================= -->
+      <!-- STANFORD -->
 
       <div
         class="timeline-item active"
         data-title="Stanford"
         data-field="Mechanism-Informed Causal AI"
-        data-description="At Stanford, I work on Mechanism-Informed Causal AI for Precision Medicine, focusing on understanding variation in treatment effects and supporting personalized treatment decisions."
+        data-description="At Stanford, I work on Mechanism-Informed Causal AI for Precision Medicine, combining causal inference, machine learning, and biomedical knowledge to better understand variation in treatment response."
       >
 
         <div class="click-here">
-          Click here
+          Research highlights
         </div>
 
         <div class="timeline-label">
@@ -802,16 +589,10 @@ permalink: /about/
 
       </div>
 
-
     </div>
 
   </div>
 
-
-
-  <!-- =====================================================
-       DYNAMIC INFORMATION CARD
-       ===================================================== -->
 
   <div
     class="journey-card"
@@ -825,7 +606,6 @@ permalink: /about/
       Stanford
     </h3>
 
-
     <div
       class="journey-field"
       id="journeyField"
@@ -833,19 +613,17 @@ permalink: /about/
       Precision Medicine
     </div>
 
-
     <p
       class="journey-description"
       id="journeyDescription"
     >
-      At Stanford, I work on AI for precision medicine, developing quantitative methods to understand variation in treatment effects and support personalized treatment decisions.
+      I work on AI for precision medicine, combining causal inference, machine learning, and biomedical knowledge to better understand variation in treatment response.
     </p>
 
   </div>
 
 
 </div>
-
 
 
 <script>
@@ -883,21 +661,14 @@ permalink: /about/
     );
 
 
-  /* =======================================================
-     UPDATE TIMELINE
-     ======================================================= */
-
   function updateJourney(
     item,
     index
   ) {
 
-    /* Fade card out */
-
     card.classList.add(
       "fade"
     );
-
 
     setTimeout(
       function () {
@@ -911,9 +682,6 @@ permalink: /about/
         description.textContent =
           item.dataset.description;
 
-
-        /* Fade card back in */
-
         card.classList.remove(
           "fade"
         );
@@ -922,10 +690,6 @@ permalink: /about/
       150
     );
 
-
-    /* =====================================================
-       ACTIVE NODE
-       ===================================================== */
 
     items.forEach(
       function (element) {
@@ -943,23 +707,14 @@ permalink: /about/
     );
 
 
-    /* =====================================================
-       PROGRESS LINE
-       ===================================================== */
-
     const percentage =
       (index /
         (items.length - 1))
       * 100;
 
-
     progress.style.width =
       percentage + "%";
 
-
-    /* =====================================================
-       MOBILE SCROLL
-       ===================================================== */
 
     if (
       window.innerWidth < 700
@@ -979,10 +734,6 @@ permalink: /about/
 
   }
 
-
-  /* =======================================================
-     CLICK EVENTS
-     ======================================================= */
 
   items.forEach(
     function (
@@ -1006,16 +757,11 @@ permalink: /about/
   );
 
 
-  /* =======================================================
-     INITIAL STATE
-     ======================================================= */
-
   updateJourney(
-    items[6],
-    6
+    items[7],
+    7
   );
 
 })();
 
 </script>
-
