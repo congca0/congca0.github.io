@@ -1,11 +1,10 @@
- ---
+---
 layout: page
 title: ""
 permalink: /about/
 ---
 
 <style>
-
 .journey {
   width: 100%;
   max-width: 1200px;
@@ -134,10 +133,6 @@ permalink: /about/
 
 .timeline-item:nth-child(8) .click-here {
   animation-delay: 1.2s;
-}
-
-.timeline-item:nth-child(9) .click-here {
-  animation-delay: 1.4s;
 }
 
 .timeline-item:hover .click-here {
@@ -320,7 +315,6 @@ permalink: /about/
   }
 
 }
-
 </style>
 
 
@@ -331,7 +325,7 @@ permalink: /about/
     <h2>My Journey</h2>
 
     <p>
-      My work focuses on understanding why health outcomes and treatment responses differ across people. Over time, I have worked across healthcare, environmental health, economics, machine learning, genomics, and biostatistics. These experiences have led me to my current work in Mechanism-Informed Causal AI for Precision Medicine.
+      My work focuses on understanding why health outcomes and treatment responses differ across people. Over time, I have worked across healthcare, genomics, environmental health, economics, machine learning, AI, and biostatistics. These experiences have shaped my current work in Mechanism-Informed Causal AI for Precision Medicine.
     </p>
 
   </div>
@@ -356,7 +350,7 @@ permalink: /about/
         class="timeline-item"
         data-title="China"
         data-field="Environment"
-        data-description="Growing up in Shanxi, a major coal-producing region in China, first led me to think about how environmental conditions can affect human health."
+        data-description="Growing up in a major coal-producing region of China first made me aware of how environmental conditions can affect human health. This became an early motivation for my later work in environmental health."
       >
 
         <div class="click-here">
@@ -386,7 +380,7 @@ permalink: /about/
         class="timeline-item"
         data-title="MedTech"
         data-field="Healthcare"
-        data-description="I trained in pharmaceutical engineering and later worked in healthcare technology, developing clinical information systems and working with clinicians on operating room workflow."
+        data-description="I trained in pharmaceutical engineering and later worked in healthcare technology, developing clinical information systems and working with clinicians on operating-room workflow. This gave me an early understanding of how technology can support healthcare practice."
       >
 
         <div class="click-here">
@@ -416,7 +410,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Helmholtz Centre"
         data-field="Machine Learning"
-        data-description="At the Helmholtz Centre for Infection Research in Germany, I began applying machine learning to biomedical and epidemiological data."
+        data-description="At the Helmholtz Centre for Infection Research in Germany, I began applying machine learning to biomedical and epidemiological data, marking my transition toward data-driven biomedical research."
       >
 
         <div class="click-here">
@@ -476,7 +470,7 @@ permalink: /about/
         class="timeline-item"
         data-title="NTNU, Norway"
         data-field="Economics + ML"
-        data-description="During my Ph.D., I combined economics, machine learning, and causal methods to study environmental exposures, transportation, and population health."
+        data-description="During my Ph.D., I combined economics, machine learning, and causal methods to study environmental exposures, transportation, and population health. This work led to publications on air pollution, weather, traffic, and health using large-scale longitudinal data."
       >
 
         <div class="click-here">
@@ -506,7 +500,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Caltech"
         data-field="Physics-Based ML"
-        data-description="At Caltech, I explored how scientific knowledge and physical principles can be incorporated into machine learning, with applications in environmental health and population health."
+        data-description="At Caltech, I explored how scientific knowledge and physical principles can be incorporated into machine learning, with applications in environmental and population health. I also developed a 10-year dataset integrating weather, traffic, and air pollution across six Norwegian cities."
       >
 
         <div class="click-here">
@@ -536,7 +530,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Yale"
         data-field="Causal AI"
-        data-description="At Yale and VA, I moved toward causal AI and individualized treatment effects, using large-scale health data to study why patients respond differently to treatments."
+        data-description="At Yale and VA, I brought together causal inference and machine learning to study heterogeneous treatment effects using large-scale health data. I also developed multimodal representation-learning approaches integrating clinical, socioeconomic, psychosocial, and biological information."
       >
 
         <div class="click-here">
@@ -566,7 +560,7 @@ permalink: /about/
         class="timeline-item active"
         data-title="Stanford"
         data-field="Mechanism-Informed Causal AI"
-        data-description="At Stanford, I work on Mechanism-Informed Causal AI for Precision Medicine, combining causal inference, machine learning, and biomedical knowledge to better understand variation in treatment response."
+        data-description="At Stanford, I integrate causal inference, machine learning, and biomedical knowledge to develop mechanism-informed approaches for precision medicine and better understand variation in treatment response."
       >
 
         <div class="click-here">
@@ -610,14 +604,14 @@ permalink: /about/
       class="journey-field"
       id="journeyField"
     >
-      Precision Medicine
+      Mechanism-Informed Causal AI
     </div>
 
     <p
       class="journey-description"
       id="journeyDescription"
     >
-      I work on AI for precision medicine, combining causal inference, machine learning, and biomedical knowledge to better understand variation in treatment response.
+      At Stanford, I integrate causal inference, machine learning, and biomedical knowledge to develop mechanism-informed approaches for precision medicine and better understand variation in treatment response.
     </p>
 
   </div>
@@ -627,7 +621,6 @@ permalink: /about/
 
 
 <script>
-
 (function () {
 
   const items =
@@ -763,5 +756,4 @@ permalink: /about/
   );
 
 })();
-
 </script>
