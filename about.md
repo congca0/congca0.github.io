@@ -500,7 +500,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Caltech"
         data-field="Physics-Based ML"
-        data-description="At Caltech, I explored how scientific knowledge and physical principles can be incorporated into machine learning, with applications in environmental and population health. I also developed a 10-year dataset integrating weather, traffic, and air pollution across six Norwegian cities."
+        data-description="At Caltech, I explored how scientific knowledge and physical principles can be incorporated into deep learning, with applications in environmental and population health."
       >
 
         <div class="click-here">
@@ -530,7 +530,7 @@ permalink: /about/
         class="timeline-item"
         data-title="Yale"
         data-field="Causal AI"
-        data-description="At Yale and VA, I brought together causal inference and machine learning to study heterogeneous treatment effects using large-scale health data. I also developed multimodal representation-learning approaches integrating clinical, socioeconomic, psychosocial, and biological information."
+        data-description="At Yale and VA, I brought together causal inference and AI to study heterogeneous treatment effects using large-scale health data. I also developed multimodal representation-learning approaches integrating clinical, socioeconomic, psychosocial, and biological information."
       >
 
         <div class="click-here">
@@ -560,7 +560,7 @@ permalink: /about/
         class="timeline-item active"
         data-title="Stanford"
         data-field="Mechanism-Informed Causal AI"
-        data-description="At Stanford, I integrate causal inference, machine learning, and biomedical knowledge to develop mechanism-informed approaches for precision medicine and better understand variation in treatment response."
+        data-description="At Stanford, I integrate causal AI, and biomedical knowledge to develop mechanism-informed approaches for precision medicine."
       >
 
         <div class="click-here">
