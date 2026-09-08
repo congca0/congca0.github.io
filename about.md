@@ -354,7 +354,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -384,7 +384,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -414,7 +414,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -444,7 +444,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -474,7 +474,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -504,7 +504,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -534,7 +534,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
@@ -564,7 +564,7 @@ permalink: /about/
       >
 
         <div class="click-here">
-          Research highlights
+          Click here
         </div>
 
         <div class="timeline-label">
