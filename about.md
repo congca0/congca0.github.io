@@ -499,7 +499,7 @@ permalink: /about/
       <div
         class="timeline-item"
         data-title="Caltech"
-        data-field="Physics-Based ML"
+        data-field="Physics-Based DL"
         data-description="At Caltech, I explored how scientific knowledge and physical principles can be incorporated into deep learning, with applications in environmental and population health."
       >
 
@@ -560,7 +560,7 @@ permalink: /about/
         class="timeline-item active"
         data-title="Stanford"
         data-field="Mechanism-Informed Causal AI"
-        data-description="At Stanford, I integrate causal AI, and biomedical knowledge to develop mechanism-informed approaches for precision medicine."
+        data-description="At Stanford, I integrate causal AI and biomedical knowledge to develop mechanism-informed approaches for precision medicine."
       >
 
         <div class="click-here">
