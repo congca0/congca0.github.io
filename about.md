@@ -514,7 +514,7 @@ permalink: /about/
           </div>
 
           <div class="timeline-field">
-            Physics-Based ML
+            Physics-Based DL
           </div>
 
         </div>
