@@ -10,10 +10,10 @@ For my latest publications, please visit my [Google Scholar profile](https://sch
 
 ## Research Leadership and Funding
 
-**Google Cloud Research Credits Program Awardee**  
+**Google Cloud Academic Research Grant Recipient**  
 *Google Cloud* · 2026
 
-Selected to receive Google Cloud credits to support research in artificial intelligence and machine learning.
+Awarded cloud computing resources through the Google Cloud Academic Research Grants program to support research in causal artificial intelligence for biomedical applications.
 
 **Lead Investigator, Approved MWCCS Scientific Concept (X24047)**  
 *MACS/WIHS Combined Cohort Study (MWCCS)* · 2024–2032
