@@ -13,7 +13,7 @@ For my latest publications, please visit my [Google Scholar profile](https://sch
 **Google Cloud Research Credits Program Awardee**  
 *Google Cloud* · 2026
 
-Selected to receive $5,000 in Google Cloud credits to support research in artificial intelligence and machine learning.
+Selected to receive Google Cloud credits to support research in artificial intelligence and machine learning.
 
 **Lead Investigator, Approved MWCCS Scientific Concept (X24047)**  
 *MACS/WIHS Combined Cohort Study (MWCCS)* · 2024–2032
