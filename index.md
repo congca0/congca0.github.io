@@ -385,7 +385,7 @@ I received my PhD in Machine Learning in Economics from the Norwegian University
         class="timeline-item"
         data-title="MedTech"
         data-field="Healthcare"
-        data-description="I trained in pharmaceutical engineering and later worked in healthcare technology, developing clinical information systems and working with clinicians on operating-room workflow. This gave me an early understanding of how technology can support healthcare practice."
+        data-description="My undergrad thesis measured swertiamarin in a Yunnan herb by HPLC — not a great party topic, but it taught me to respect a decimal point. Later I built an IoT/RFID system for tracking OR staff behavior, basically a snitch machine for hospitals, and my first taste of data that doesn't behave."
       >
 
         <div class="click-here">
@@ -415,7 +415,7 @@ I received my PhD in Machine Learning in Economics from the Norwegian University
         class="timeline-item"
         data-title="Helmholtz Centre"
         data-field="Machine Learning"
-        data-description="At the Helmholtz Centre for Infection Research in Germany, I began applying machine learning to biomedical and epidemiological data, marking my transition toward data-driven biomedical research."
+        data-description="Used machine learning to hunt herpes zoster biomarkers at the Helmholtz Centre in 2018. This, not the herb, is the real origin story of my Machine Learning habit."
       >
 
         <div class="click-here">
@@ -445,7 +445,7 @@ I received my PhD in Machine Learning in Economics from the Norwegian University
         class="timeline-item"
         data-title="Göttingen"
         data-field="Genomics"
-        data-description="At the University of Göttingen, I worked with sequencing and transcriptomic data, developing a foundation in bioinformatics and computational genomics."
+        data-description="I worked with sequencing and transcriptomic  data at Göttingen, adding 'genomics' to a CV that already had too many nouns in it."
       >
 
         <div class="click-here">
