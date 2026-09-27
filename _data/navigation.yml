@@ -8,13 +8,6 @@ main:
   - title: "Publications"
     url: "/publications/"
 
-  - title: "Teaching"
-    url: "/teaching/"
-
-  - title: "Talks"
-    url: "/talks/"
-
-  - title: "Service"
-    url: "/service/"
-
+  - title: "Activities"
+    url: "/activities/"
 
