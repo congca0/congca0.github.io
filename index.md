@@ -564,8 +564,8 @@ I received my PhD in Machine Learning in Economics from the Norwegian University
       <div
         class="timeline-item active"
         data-title="Stanford"
-        data-field="Causal AI in precision obesity medicine"
-        data-description=" At Stanford, I combine AI and medical knowledge to develop causally informed approaches to precision obesity medicine."
+        data-field="Mechanism-informed causal AI in precision medicine"
+        data-description=" At Stanford, I combine AI and clinical medicine knowledge to develop mechanism-informed causal AI approaches to precision medicine."
       >
 
         <div class="click-here">
