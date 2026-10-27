@@ -7,15 +7,21 @@ Selected invited talks, seminars, and conference presentations.
 
 ## 2026
 
+**Invited Seminars, Stanford University**  
+*Stanford-Surgery Policy Improvement Research and Education Center (S-SPIRE); Stanford Innovative Medicines Accelerator; Department of Surgery, Stanford University School of Medicine*
+
 **Generative AI Models for Causal Mediation Analysis with Network Outcomes**  
 *Joint Statistical Meetings (JSM), Causal Inference with Interference Session*
 
 **Mechanism-Oriented AI for Clinical Data**  
-*AI at Yale Interdisciplinary Symposium; Robert S. Sherwin Yale Center for Clinical Investigation (YCCI) All Scholar Day*
+*AI at Yale Interdisciplinary Symposium; Robert S. Sherwin Yale Center for Clinical Investigation (YCCI) All Scholar Day; 9th Annual Yale Postdoc Association Symposium*
 
 ---
 
 ## 2025
+
+**Invited Seminar**  
+*Department of Biostatistics and Health Data Science, Lehigh University College of Health*
 
 **Physics-Based Deep Learning for Predicting Urban Air Pollution Using Decadal Time Series Data**  
 *Harvard Center for Geographic Analysis Conference, The Geography of Digital Twins; Symposium on Spatiotemporal Data Science*
@@ -31,7 +37,7 @@ Selected invited talks, seminars, and conference presentations.
 *Asia Meeting of the Econometric Society*
 
 **How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
-*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk; Division of Geological and Planetary Sciences, California Institute of Technology*
+*California Institute of Technology Bray Seminar; Caltech Postdoctoral Association Postdoc Launch Talk; Division of Geological and Planetary Sciences, California Institute of Technology; AERE Summer Workshop on Environment, Energy, and Transportation*
 
 **Climate Change and Urban Heat Stress**  
 *Harvard Center for Geographic Analysis Conference, International Symposium of Spatiotemporal Data Science*
@@ -49,5 +55,10 @@ Selected invited talks, seminars, and conference presentations.
 
 **How to Better Predict the Effect of Urban Traffic and Weather on Air Pollution? Norwegian Evidence from Machine Learning Approaches**  
 *Nordic Annual Environmental and Resource Economics Conference; Annual Meeting of the Norwegian Association of Economists; Urban Transitions Conference; Annual Meeting of the Southern Economic Association; Economics Department Seminar, Norwegian University of Science and Technology*
+
+---
+
 ## 2021
-*Norwegian Public Roads Administration; Method Development and Analytics Department, Norwegian Institute of Public Health*
+
+**Invited Presentations**  
+*Norwegian Public Roads Administration (virtual); Method Development and Analytics Department, Norwegian Institute of Public Health (virtual)*
