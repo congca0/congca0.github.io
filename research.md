@@ -14,14 +14,15 @@ applications.
      style="width: 100%; max-width: 1000px; display: block; margin: 1.5rem auto 2rem;">
 
 ### Selected Work
+- [Where the Data End and the Mechanism Begins: Doubly Robust Causal Digital Twins for Treatment Strategies](https://arxiv.org/abs/2610.31706)
 
 - [Causal Inference under Interference with Learned Exposure Mappings](https://arxiv.org/abs/2608.19224)
 
 - [When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation](https://arxiv.org/abs/2609.00071)
 
-- [AI-Assisted Longitudinal Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties](https://www.medrxiv.org/content/10.64898/2026.06.18.26355982v2)
+- [AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program](https://arxiv.org/abs/2607.22640)
 
-- [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)
+- [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758) *PLOS Digital Health*, forthcoming
 
 ---
 
@@ -38,8 +39,9 @@ complex relationships and potential mechanisms in high-dimensional health data.
 ![Representation Learning and Multimodal Biomedical Data](/images/research/representation_learning_simple_v3.gif)
 
 ### Selected Work
+- [When Reconstruction Is Not Enough: Doubly Robust Counterfactual and Interventional Mediation Analysis with Learned Multimodal Representations](https://arxiv.org/abs/2610.30220)
 
-- [AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity](https://arxiv.org/abs/2608.04016)
+- [AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity: Insights from the All of Us Research Program](https://arxiv.org/abs/2608.04016)
 
 - [Different representation learning objectives recover distinct latent structures from the same psychometric data](https://arxiv.org/abs/2609.00100)
 
