@@ -30,7 +30,7 @@
 *Asia Meeting of the Econometric Society* — Health Economics and Education, 2024
 
 **Session Chair**  
-*Harvard Center for Geographic Analysis Conference* — Climate Change and Urban Health Stress, 2024, 2025
+*Harvard Center for Geographic Analysis Conference* — Climate Change and Urban Heat Stress, 2024, 2025
 
 **Session Chair**  
 *Chinese Economists Society Annual Conference* — Health and Policy, 2025
