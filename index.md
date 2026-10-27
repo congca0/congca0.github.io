@@ -10,7 +10,6 @@ I received my PhD in Economics, focusing on machine learning, from the Norwegian
 I am on the 2026–2027 academic job market. My CV is available [here](https://drive.google.com/file/d/1L8-WmwjU6J6DCoCL3lhumDLoxBCOXDy3/view?usp=sharing){:target="_blank"}.
 
 ---
----
 
 <style>
 .journey {
@@ -388,7 +387,7 @@ I am on the 2026–2027 academic job market. My CV is available [here](https://d
         class="timeline-item"
         data-title="MedTech"
         data-field="Healthcare"
-        data-description="My undergrad thesis measured swertiamarin in a Yunnan herb by HPLC — not a great party topic, but it taught me to respect a decimal point. Later I built an IoT/RFID system for tracking OR staff behavior, basically a snitch machine for hospitals, and my first taste of data that doesn't behave."
+               data-description="My undergraduate thesis measured swertiamarin in a Yunnan medicinal herb by HPLC — not a great party topic, but it taught me to respect a decimal point. In the medical device industry, I later led development of an RFID-based system tracking operating room workflows, my first taste of real-world clinical data that doesn't behave."
       >
 
         <div class="click-here">
@@ -418,7 +417,7 @@ I am on the 2026–2027 academic job market. My CV is available [here](https://d
         class="timeline-item"
         data-title="Helmholtz Centre"
         data-field="Machine Learning"
-        data-description="Used machine learning to hunt herpes zoster biomarkers at the Helmholtz Centre in 2018. This, not the herb, is the real origin story of my Machine Learning habit."
+        data-description="At the Helmholtz Centre for Infection Research, I used machine learning to hunt for herpes zoster biomarkers. This, not the herb, is the real origin story of my machine learning habit."
       >
 
         <div class="click-here">
@@ -448,7 +447,7 @@ I am on the 2026–2027 academic job market. My CV is available [here](https://d
         class="timeline-item"
         data-title="Göttingen"
         data-field="Genomics"
-        data-description="I worked with sequencing and transcriptomic  data at Göttingen, adding 'genomics' to a CV that already had too many nouns in it."
+        data-description="At University Medicine Göttingen, I worked with sequencing and transcriptomic data, adding genomics to my toolkit and gaining my first experience with high-dimensional biological data."
       >
 
         <div class="click-here">
@@ -568,8 +567,9 @@ I am on the 2026–2027 academic job market. My CV is available [here](https://d
         class="timeline-item active"
         data-title="Stanford"
         data-field="Mechanism-informed causal AI in precision medicine"
-        data-description=" At Stanford, I combine AI and clinical medicine knowledge to develop mechanism-informed causal AI approaches to precision medicine."
-      >
+        data-field="Mechanism-Informed Causal AI for Precision Medicine"
+        data-description="At Stanford, I integrate causal inference, machine learning, and biomedical knowledge to develop mechanism-informed approaches for precision medicine and better understand variation in treatment response."
+        >
 
         <div class="click-here">
           Click here
