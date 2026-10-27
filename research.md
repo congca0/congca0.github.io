@@ -19,7 +19,7 @@ applications.
 
 - [When Prediction Error Is Not Enough: Evaluating Nuisance-Function Prediction for Causal Estimation](https://arxiv.org/abs/2609.00071)
 
-- [AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program](https://www.medrxiv.org/content/10.64898/2026.06.18.26355982v2)
+- [AI-Assisted Longitudinal Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties](https://www.medrxiv.org/content/10.64898/2026.06.18.26355982v2)
 
 - [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)
 
@@ -39,7 +39,7 @@ complex relationships and potential mechanisms in high-dimensional health data.
 
 ### Selected Work
 
-- [AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity](https://www.medrxiv.org/content/10.64898/2026.06.17.26355907v2.full)
+- [AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity](https://arxiv.org/abs/2608.04016)
 
 - [Different representation learning objectives recover distinct latent structures from the same psychometric data](https://arxiv.org/abs/2609.00100)
 
