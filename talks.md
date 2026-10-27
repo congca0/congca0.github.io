@@ -7,7 +7,7 @@ Selected invited talks, seminars, and conference presentations.
 
 ## 2026
 
-**Invited Seminars, Stanford University**  
+**Stanford University**  
 *Stanford-Surgery Policy Improvement Research and Education Center (S-SPIRE); Stanford Innovative Medicines Accelerator; Department of Surgery, Stanford University School of Medicine*
 
 **Generative AI Models for Causal Mediation Analysis with Network Outcomes**  
