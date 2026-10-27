@@ -14,7 +14,7 @@ author_profile: true
 <li><strong>Cao C</strong>. (2024). <a href="https://doi.org/10.1038/s41597-024-03583-8">Integration of ten years of daily weather, traffic, and air pollution data from Norway’s six largest cities</a>. <em>Scientific Data</em>.</li>
 </ol>
 
-<h2>Preprints</h2>
+<h2>Preprints and under review </h2>
 <ol>
 <li><strong>Cao C</strong>. (2026). <a href="https://arxiv.org/abs/2610.31706">Where the Data End and the Mechanism Begins: Doubly Robust Causal Digital Twins for Treatment Strategies</a>. <em>arXiv</em>.</li>
 <li><strong>Cao C</strong>. (2026). <a href="https://arxiv.org/abs/2610.30220">When Reconstruction Is Not Enough: Doubly Robust Counterfactual and Interventional Mediation Analysis with Learned Multimodal Representations</a>. <em>arXiv</em>.</li>
