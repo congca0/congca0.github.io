@@ -1,7 +1,10 @@
 main:
   - title: "Home"
     url: "/"
-
+    
+  - title: "CV"
+    url: https://drive.google.com/file/d/1L8-WmwjU6J6DCoCL3lhumDLoxBCOXDy3/view?usp=sharing
+    
   - title: "Research"
     url: "/research/"
 
