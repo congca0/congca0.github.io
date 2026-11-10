@@ -7,12 +7,7 @@ I am a <strong style="color: #8B0000;">Causal AI researcher</strong> working at 
 
 I received my PhD in Economics, focusing on machine learning, from the Norwegian University of Science and Technology in 2023. I have previously held research and teaching positions at Yale University and Caltech. I am currently a Postdoctoral Scholar at Stanford University. I also serve as a Nordic Co-Editor of the *Scandinavian Journal of Public Health* and an Associate Editor of *Biometrics*.
 
-<p>
-  <strong style="color: #8B0000;">
-    I am on the 2026–2027 academic job market. My CV is available
-    <a href="https://drive.google.com/file/d/1L8-WmwjU6J6DCoCL3lhumDLoxBCOXDy3/view" target="_blank" style="color: #8B0000; text-decoration: underline;">here</a>.
-  </strong>
-</p>
+ 
 ---
 
 <style>
