@@ -757,22 +757,13 @@ I received my PhD in Machine Learning in Economics from the Norwegian University
       percentage + "%";
 
 
-    if (
-      window.innerWidth < 700
-    ) {
-
-      item.scrollIntoView({
-
-        behavior: "smooth",
-
-        inline: "center",
-
-        block: "nearest"
-
+    if (window.innerWidth < 700) {
+      const wrapper = item.closest(".timeline-wrapper");
+      wrapper.scrollTo({
+        left: item.offsetLeft - (wrapper.clientWidth - item.offsetWidth) / 2,
+        behavior: "smooth"
       });
-
     }
-
   }
 
 
