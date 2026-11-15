@@ -7,9 +7,52 @@ I am a <strong style="color: #8B0000;">Causal AI researcher</strong> working at 
 
 I received my PhD in Machine Learning in Economics from the Norwegian University of Science and Technology in 2023. I have previously held research and teaching positions at Yale University and Caltech. I am currently a Postdoctoral Scholar at Stanford University. I also serve as a Nordic Co-Editor of the *Scandinavian Journal of Public Health* and an Associate Editor of *Biometrics*.
 
+<ul class="profile-links">
+  <li><a href="mailto:congc@stanford.edu"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a></li>
+  <li><a href="https://scholar.google.com/citations?user=KoFMlFQAAAAJ&amp;hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar" aria-hidden="true"></i>Google Scholar</a></li>
+  <li><a href="https://orcid.org/0000-0001-8289-1705" target="_blank" rel="noopener"><i class="ai ai-orcid" aria-hidden="true"></i>ORCID</a></li>
+  <li><a href="https://github.com/congca0" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i>GitHub (congca0)</a></li>
+  <li><a href="https://github.com/congca" target="_blank" rel="noopener"><i class="fab fa-github" aria-hidden="true"></i>GitHub (congca)</a></li>
+  <li><a href="https://www.linkedin.com/in/cong-cao-70068839b" target="_blank" rel="noopener"><i class="fab fa-linkedin" aria-hidden="true"></i>LinkedIn</a></li>
+</ul>
+
 ---
 
 <style>
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 1.2em 0 0;
+  padding: 0;
+  list-style: none;
+}
+.profile-links li { margin: 0; }
+.profile-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  padding: 7px 14px;
+  border: 1px solid #E6C7C7;
+  border-radius: 20px;
+  background: #ffffff;
+  color: #8C1515;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+.profile-links a:hover {
+  background: #8C1515;
+  border-color: #8C1515;
+  color: #ffffff;
+}
+.profile-links a:focus-visible {
+  outline: 2px solid #8C1515;
+  outline-offset: 3px;
+}
+.profile-links i { font-size: 15px; }
 .journey {
   width: 100%;
   max-width: 1200px;
@@ -564,7 +607,6 @@ I received my PhD in Machine Learning in Economics from the Norwegian University
       <div
         class="timeline-item active"
         data-title="Stanford"
-        data-field="Mechanism-informed causal AI in precision medicine"
         data-field="Mechanism-Informed Causal AI for Precision Medicine"
         data-description="At Stanford, I integrate causal inference, machine learning, and biomedical knowledge to develop mechanism-informed approaches for precision medicine and better understand variation in treatment response."
         >
