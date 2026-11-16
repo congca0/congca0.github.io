@@ -5,7 +5,7 @@ author_profile: true
 ---
 <h2>Peer-Reviewed Publications</h2>
 <ol reversed>
-<li><strong>Cao C</strong>. (2026). Challenges and recent advances in visual and haptic feedback for AI-enhanced teleoperated robot-assisted surgery. <em>PLOS Digital Health</em>, forthcoming. <a href="https://doi.org/10.2139/ssrn.6777758">[Preprint]</a></li>
+<li><strong>Cao C</strong>. (2026). Challenges and recent advances in visual and haptic feedback for AI-enhanced teleoperated robot-assisted surgery. forthcoming. <a href="https://doi.org/10.2139/ssrn.6777758">[Preprint]</a></li>
 <li>Zhang C, <strong>Cao C</strong>, Zhang P, Alvarez RM, Debnath R. (2026). <a href="https://doi.org/10.1016/j.enpol.2025.115057">Inequitable efficiency: Unravelling the social and built environment drivers of London’s housing energy performance</a>. <em>Energy Policy</em>, 210, 115057.</li>
 <li><strong>Cao C</strong>, Dyrstad JM, Green CP. (2025). <a href="https://doi.org/10.1177/14034948241290852">Modeling impacts of traffic, air pollution, and weather conditions on cardiopulmonary disease mortality</a>. <em>Scandinavian Journal of Public Health</em>, 53(2), 119–124.</li>
 <li><strong>Cao C</strong>, Debnath R, Alvarez RM. (2025). <a href="https://doi.org/10.1016/j.aeaoa.2025.100366">Interaction between climate factors and air quality in three Norwegian cities: A machine learning analysis</a>. <em>Atmospheric Environment: X</em>, 100366.</li>
