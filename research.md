@@ -21,7 +21,7 @@ applications.
 
 - [AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program](https://arxiv.org/abs/2607.22640)
 
-- [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758) *PLOS Digital Health*, forthcoming
+- [Challenges and Recent Advances in Visual and Haptic Feedback for AI-Enhanced Teleoperated Robot-Assisted Surgery](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6777758)  
 
 - [Where the Data End and the Mechanism Begins: Doubly Robust Causal Digital Twins for Treatment Strategies](https://arxiv.org/abs/2610.31706)
 
