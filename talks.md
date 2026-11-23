@@ -5,13 +5,17 @@ author_profile: true
 
 Selected invited talks, seminars, and conference presentations.
 
+## 2027
+
+**Short-Term Environmental Perturbations and Cognitive Health: Distinguishing Environmental Effects From Psychosocial Context**  
+*13th Annual Global and Planetary Health Research Convening, Stanford University*  
+
+---
+
 ## 2026
 
-**Stanford University**  
-*Stanford-Surgery Policy Improvement Research and Education Center (S-SPIRE); Stanford Innovative Medicines Accelerator; Department of Surgery, Stanford University School of Medicine*
-
 **Generative AI Models for Causal Mediation Analysis with Network Outcomes**  
-*Joint Statistical Meetings (JSM), Causal Inference with Interference Session*
+*Joint Statistical Meetings (JSM), Causal Inference with Interference Session; Stanford-Surgery Policy Improvement Research and Education Center (S-SPIRE); Stanford Innovative Medicines Accelerator; Department of Surgery, Stanford University School of Medicine
 
 **Mechanism-Oriented AI for Clinical Data**  
 *AI at Yale Interdisciplinary Symposium; Robert S. Sherwin Yale Center for Clinical Investigation (YCCI) All Scholar Day; 9th Annual Yale Postdoc Association Symposium*
