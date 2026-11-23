@@ -15,7 +15,7 @@ Selected invited talks, seminars, and conference presentations.
 ## 2026
 
 **Generative AI Models for Causal Mediation Analysis with Network Outcomes**  
-*Joint Statistical Meetings (JSM), Causal Inference with Interference Session; Stanford-Surgery Policy Improvement Research and Education Center (S-SPIRE)
+*Joint Statistical Meetings (JSM), Causal Inference with Interference Session; Stanford-Surgery Policy Improvement Research and Education Center (S-SPIRE)*
 
 **Mechanism-Oriented AI for Clinical Data**  
 *AI at Yale Interdisciplinary Symposium; Robert S. Sherwin Yale Center for Clinical Investigation (YCCI) All Scholar Day; 9th Annual Yale Postdoc Association Symposium*
